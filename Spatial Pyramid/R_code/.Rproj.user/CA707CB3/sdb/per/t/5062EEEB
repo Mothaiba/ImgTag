@@ -1,0 +1,17 @@
+{
+    "contents" : "# This is getting Accepted!\n# Phung Minh Tung\n#==============================================\n\nrealCnt = 0 ###################\n\ndatasets = list.dirs(dataLink, recursive = F)\n\nfor(pyramidLevel in 0 : 3){\nfor (dataset in datasets){\n    \n    # print(dataset)\n    \n    target = getTarget(dataset)\n    \n    nFeatures = 0\n    for(i in 0 : pyramidLevel){\n        nFeatures = nFeatures + 4 ^ i\n    }\n    # df = data.frame(matrix(0, nrow = length(target), ncol = nFeatures * nbins * nbins * nbins))\n    df = data.frame(matrix(0, nrow = length(target), ncol = nFeatures * 3))\n    \n    categories = list.dirs(dataset, recursive = F)\n    cnt = 0\n    \n    for (category in categories){\n        # print(category)\n        images = list.files(category, full.names = T)\n        for (image in images){\n            # print(cnt)\n            cnt = cnt + 1\n            realCnt = realCnt + 1 ###################\n            # print(realCnt)#######################\n            img = readJPEG(image)\n            df[cnt, ] = getFeatures(img)\n        }\n        print(realCnt)\n    }\n    \n    df = cbind(df, target)\n    \n    \n    csvFile = paste(outLink, substr(dataset, regexpr(\"/[^/]*$\", dataset) + 1, nchar(dataset)),\n                    '_level', toString(pyramidLevel), '.csv', sep = '')\n    write.csv(df, file = csvFile, row.names = F)\n    \n}\n}\n\n\n\n\nprint(Sys.time())\n\nwrite('Training Error Calculated', file = reportFile)\n\ndfLinks = list.files('../OutputFiles/', recursive = F, full.names = T)\n    \nfor(dfLink in dfLinks){\n    if(substr(dfLink, nchar(dfLink) - 3, nchar(dfLink)) == '.csv'){\n     \n        print(dfLink)\n        \n        df = read.csv(dfLink)\n        df$target = as.factor(df$target)\n        \n        trainControl = trainControl(method = 'cv', number = 5)\n\n        M = train(target ~ ., data = df, method = 'svmLinear', trControl = trainControl,\n                  tuneGrid = data.frame(C = 1))\n        \n        print(M)\n             \n        prediction = predict(M, df[, 1 : (dim(df)[2] - 1)])\n        trError = (sum(prediction == df$target) / length(df$target))\n         \n        print(trError)\n        confusion = as.table(confusionMatrix(prediction, df$target))\n             \n        write(paste(dfLink, trError, sep = ': '), file = reportFile, append = T)               \n        \n        write.table(confusion, file = reportFile, append = T)\n           \n    }\n    \n}\n    \n\nprint(Sys.time())\n",
+    "created" : 1450806333410.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1921807515",
+    "id" : "5062EEEB",
+    "lastKnownWriteTime" : 1451193559,
+    "path" : "E:/Courses/Final Project/W3/R_code/Main.R",
+    "project_path" : "Main.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

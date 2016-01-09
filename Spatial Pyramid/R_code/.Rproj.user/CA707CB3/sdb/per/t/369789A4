@@ -1,0 +1,17 @@
+{
+    "contents" : "\n# Import libraries\n\nlibrary(jpeg)\nlibrary(randomForest)\nlibrary(rpart)\nlibrary(ggplot2)\nlibrary(lattice)\nlibrary(caret)\n\n# Define constants\n\ndataLink = '../../images'\nnbins = 16\npyramidLevel = 3\nlvlWeight = c(1, 1, 1, 1, 1)\noutLink = '../OutputFiles/'\nreportFile = '../OutputFiles/trainErrorLinearSVM.txt'\n",
+    "created" : 1450806340854.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1546027964",
+    "id" : "369789A4",
+    "lastKnownWriteTime" : 1451184867,
+    "path" : "E:/Courses/Final Project/W3/R_code/Constant.R",
+    "project_path" : "Constant.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -1,0 +1,18 @@
+{
+    "contents" : "#Featuring functions\n# ======================================================================================\n\n#-------------------------------------------------------\n# given a dataset, which contains all the links of the categories of the images\n# return an array, contains the category of each image, based on its folder\n\ngetTarget <- function(dataset){\n    \n    target = vector()\n    \n    categories = list.dirs(dataset, recursive = F)\n    # print(categories)\n    \n    for (i in 1 : length(categories)){\n        \n        category = list.files(categories[i])\n        # print (category)\n        # print (length(category))\n        target = c(target, array(i, dim = length(category)))\n        \n    }\n    \n    target = as.factor(target)\n    # print(target)\n    \n    return (target)\n    \n}\n# -------------------------------------------------------\n\n\n\n# ------------------------------------------------------------\n# main function of featuring\n\ngetFeatures <- function(img){\n    \n    xresolution = nrow(img[,,1])\n    yresolution = ncol(img[,,1])\n    \n    img = floor(img * 255 / ( 256 / nbins))\n    \n    return(toSpatialPyramid(img, 0, 1, xresolution, 1, yresolution))\n    \n}\n\n#-------------------------------------------------------------\n\n\n\n# ------------------------------------------------------------------------------------\n# given an image and pixel-ranges (xmin -> xmax, ymin -> ymax)\n# return the histogram of that image\n#   represented by a matrix of floats [nbins * nbins * nbins]\n\ntoHistogram <- function(img, lvl, xmin, xmax, ymin, ymax){\n    histo = array(0 * (nbins * nbins * nbins), dim = c(nbins, nbins, nbins))\n    # print(dim(histo))\n    for (i in xmin : xmax){\n        \n        for (j in ymin : ymax){\n            \n            histo[img[i, j, 1], img[i, j, 2], img[i, j, 3]] =\n                histo[img[i, j, 1], img[i, j, 2], img[i, j, 3]] + 1\n            \n        }\n        \n    }\n    \n    histo = histo / ((xmax - xmin + 1) * (ymax - ymin + 1)) # normalization\n    histo = array(histo, c(1, nbins * nbins * nbins)) * lvlWeight[lvl + 1] # weight for level i is lvlWeight[i + 1]\n    # print(head(histo))\n    return (histo)\n    \n}\n\n# ------------------------------------------------------------------------------------\n\n\n\n\n# -----------------------------------------------------------------\n# recursively compute the spatial pyramid of an image\n\ntoSpatialPyramid <- function(img, lvl, xmin, xmax, ymin, ymax){\n    \n    histo = toHistogram(img, lvl, xmin, xmax, ymin, ymax)\n    \n    if(lvl < pyramidLevel){\n        \n        xmid = floor((xmin + xmax) / 2)\n        ymid = floor((ymin + ymax) / 2)\n        histo = cbind(histo, toSpatialPyramid(img, lvl + 1, xmin, xmid, ymin, ymid))\n        histo = cbind(histo, toSpatialPyramid(img, lvl + 1, xmid + 1, xmax, ymin, ymid))\n        histo = cbind(histo, toSpatialPyramid(img, lvl + 1, xmin, xmid, ymid + 1, ymax))\n        histo = cbind(histo, toSpatialPyramid(img, lvl + 1, xmid + 1, xmax, ymid + 1, ymax))\n        \n    }\n    # print(length(histo))\n    return (histo)\n    \n}\n",
+    "created" : 1450578003045.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2198276652",
+    "id" : "66D5B587",
+    "lastKnownWriteTime" : 1450630567,
+    "path" : "E:/Courses/Final Project/W3/R_code/Featuring_functions.R",
+    "project_path" : "Featuring_functions.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

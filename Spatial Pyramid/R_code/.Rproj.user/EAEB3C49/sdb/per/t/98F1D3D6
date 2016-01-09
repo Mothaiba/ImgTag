@@ -1,0 +1,18 @@
+{
+    "contents" : "# This is getting Accepted! -------------\n# Phung Minh Tung\n#==============================================\n\nrealCnt = 0 ###################\n\ndatasets = list.dirs(dataLink, recursive = F)\n\nfor (dataset in datasets){\n    \n    target = getTarget(dataset)\n    \n    nFeatures = 0\n    for(i in 0 : pyramidLevel){\n        nFeatures = nFeatures + 4 ^ i\n    }\n    df = data.frame(matrix(0, nrow = length(target), ncol = nFeatures * nbins * nbins * nbins))\n    \n    categories = list.dirs(dataset, recursive = F)\n    cnt = 0\n    \n    for (category in categories){\n        images = list.files(category, full.names = T)\n        for (image in images){\n            # print(cnt)\n            cnt = cnt + 1\n            realCnt = realCnt + 1 ###################\n            print(realCnt)#######################\n            img = readJPEG(image)\n            df[cnt, ] = getFeatures(img)\n        }\n    }\n    \n    df = cbind(df, target)\n    \n    \n    csvFile = paste(substr(dataset, regexpr(\"/[^/]*$\", dataset) + 1, nchar(dataset)),\n                    '_level', toString(pyramidLevel), '.csv', sep = '')\n    write.csv(df, file = csvFile, row.names = F)\n    \n    \n}\n\n\n\n\n\n\n# =======================================================================\n# imageFiles = list.files('../MIT8_reduced2/', full.names = T)\n# \n# target = getCategory(imageFiles)\n# \n# df = data.frame(matrix(0, nrow = length(imageFiles), ncol = nbins * nbins * nbins))\n# \n# for (i in 1 : length(imageFiles)){\n#     img = readJPEG(imageFiles[i])\n#     df[i,] = toHistogram(img)\n# }\n\n# \n# df = cbind(df, target)\n# \n# write.csv(df, file = 'histogram_reduced2.csv', row.names = F)\n# =======================================================================\n\n# imageFiles = list.files('../MIT8/', full.names = T)\n# \n# target = getCategory(imageFiles)\n# \n# numCol = 0\n# for (i in 0 : pyramidLevel){\n#     numCol = numCol + (2 ^ i) ^ 2\n# }\n# print (numCol)\n# \n# df = data.frame(matrix(0, nrow = length(imageFiles), ncol = numCol))\n# \n# for (i in 1 : length(imageFiles)){\n#     img = readJPEG(imageFiles[i])\n#     df[i,] = toSpatialPyramid(img, 0, 1, xresolution, 1, yresolution)\n# }\n# \n# \n# df = cbind(df, target)\n\n# write.csv(df, file = 'spatialFull.csv', row.names = F)\n# =======================================================================\n\n\n\n# df = read.csv('histogramFull.csv')\n# df = read.csv('histogramReduced.csv')\n# df = read.csv('histogram_reduced2.csv')\n\n# df = read.csv('spatialFull.csv')\n# df = read.csv('spatial_reduced.csv')\n# df = read.csv('spatial_reduced2.csv')\n\n# df$target = as.factor(df$target)\n\n# =======================================================================\n\n# trCtr = trainControl(method = 'cv', number = 20)\n# model = train(target ~ ., data = df, trControl = trCtr, method = 'rf',\n#               tuneGrid = data.frame(mtry = 85))\n# \n# print (model)\n\n",
+    "created" : 1450577882017.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3089946127",
+    "id" : "98F1D3D6",
+    "lastKnownWriteTime" : 1450630567,
+    "path" : "E:/Courses/Final Project/W3/R_code/Main.R",
+    "project_path" : "Main.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
