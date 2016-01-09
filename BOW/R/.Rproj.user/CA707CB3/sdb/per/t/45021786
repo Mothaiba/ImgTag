@@ -1,0 +1,18 @@
+{
+    "contents" : "\nwrite('Training Error Calculated', file = reportFile)\n\ndataFrames = list.files(outBOWFolder, full.names = T)\n\nfor(each in dataFrames){\n    \n    print(each)\n    print(Sys.time())\n            \n    df = read.csv(each)\n    df$target = as.factor(df$target)\n    \n    trainControl = trainControl(method = 'none', number = 5)\n    \n    M = train(target ~ ., data = df, method = 'nb', trControl = trainControl,\n              tuneGrid = data.frame(fL = 0, usekernel = T))\n    \n    print(M)\n    \n    prediction = predict(M, df[, 1 : (dim(df)[2] - 1)])\n    trError = (sum(prediction == df$target) / length(df$target))\n    \n    print(trError)\n    confusion = as.table(confusionMatrix(prediction, df$target))\n    \n    write(paste(each, trError, sep = ': '), file = reportFile, append = T)               \n    \n    write.table(confusion, file = reportFile, append = T)\n    \n    print(Sys.time())\n    \n    \n}",
+    "created" : 1452044521055.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "549218524",
+    "id" : "45021786",
+    "lastKnownWriteTime" : 1452232796,
+    "path" : "E:/Courses/Final Project/W5/R/Classification.R",
+    "project_path" : "Classification.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

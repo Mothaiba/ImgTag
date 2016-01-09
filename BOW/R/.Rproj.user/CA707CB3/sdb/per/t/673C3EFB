@@ -1,0 +1,18 @@
+{
+    "contents" : "\n# Constants\n# ============================\n\nlibrary(jpeg)\n\n#================ Constants for Featuring ====================\n\n# link to all 3 datasets\nallDataLink = '../../images3'\n\n# to select visual word, each image will be divided into ('npart' x 'npart') non-overlapping patches\nnpart = 8\n# number of patches for each image\nnpatches = npart * npart\n\n# size of each patch, this value is different for each image, initially set = 0\nxpatch = 0\nypatch = 0\n\n# the percentage of patches we take from each image to actually select word\npercentage = 0.3\n\n# the number of keypoints selected in 1 image, accord with 'percentage' and 'npatches'\nnkeypoints = ceiling(npatches * percentage)\n\n# the number of visual words\nnWords = 500\n\n#output Folder\noutBOWFolder = '../BOW - interesting points/'\n\n# different threshold for detecting interesting points\ndifferThreshold = 0.05\n\n# 2 adjacent-points vectors\np = c(-1, -1, -1, 0, 0, 0, 1, 1, 1)\nq = c(-1, 0, 1, -1, 0, 1, -1, 0, 1)\n\n# ================== Constants for classfication =============\n\nlibrary(caret)\n\nreportFile = '../error - InterestingPoints/TrainingErrorNB.txt'\n",
+    "created" : 1451880571157.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1669439099",
+    "id" : "673C3EFB",
+    "lastKnownWriteTime" : 1452244917,
+    "path" : "E:/Courses/Final Project/W5/R/constant.R",
+    "project_path" : "constant.R",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
