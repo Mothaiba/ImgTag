@@ -1,0 +1,18 @@
+{
+    "contents" : "pLSA_1 <- function(BOW, wordTopicTable){\n    \n    target = BOW$target\n    BOW = t(BOW[, 1 : (ncol(BOW) - 1)])\n    for(col in ncol(BOW)){\n        BOW[, col] = BOW[, col] / sum(BOW[, col])\n    }\n    \n    nImage = dim(BOW)[2]\n    nWord = dim(BOW)[1]\n    nTopic = dim(wordTopicTable)[2]\n    \n    if(nWord < nTopic){\n        print('The Number of Words must not be smaller than the number of topic')\n        return(NULL)\n    }\n    \n    topicImageTable = matrix(NA, nTopic, nImage)\n\n    a = wordTopicTable[1 : nTopic, 1 : nTopic]\n    for(col in 1 : nImage){\n        b = BOW[1 : nTopic, col]\n        topicImageTable[,col] = solve(a, b)\n    }\n    \n    topicImageTable = data.frame(t(topicImageTable))\n    topicImageTable = cbind(topicImageTable, target)\n    \n    return(topicImageTable)\n}\n\nrandomTable <- function(row, col){\n    mat = matrix(runif(row * col), nrow = row)\n    for(i in row){\n        mat[i,] = mat[i,] / sum(mat[i,])\n    }\n    return(mat)\n}\n\nntopic = 100\ndatasets = c('Corel1000', 'MIT8', 'Caltech101')\n\n\nfor(dataset in datasets){\n    print(dataset)\n    link = paste('../BOW/', dataset, '.csv', sep = '')\n    \n    BOW = read.csv(link)\n    wordTopicTable = randomTable(ncol(BOW) - 1, ntopic)\n    pLSA = pLSA_1(BOW, wordTopicTable)\n    \n    # print(pLSA)\n    \n    write.csv(pLSA, file = paste('../pLSA_1/', dataset, '.csv', sep = ''), row.names = F )\n}\n",
+    "created" : 1452845292714.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "746175299",
+    "id" : "188A1E2E",
+    "lastKnownWriteTime" : 1452878879,
+    "path" : "E:/Courses/Final Project/W6/R_codes/pLSA_1.R",
+    "project_path" : "pLSA_1.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
