@@ -1,13 +1,13 @@
 {
-    "contents" : "library(class)\nlibrary(caret)\nsimpleCV <- function(df, ntimes = 5, partition = 0.8){\n    \n    n = dim(df)[1]\n    testResult = matrix(nrow = ntimes, ncol = 4)\n    colnames(testResult) = c('Index', 'nTrain', 'nTest', 'Accuracy')\n    \n    for (i in 1 : ntimes){\n        \n        boo = runif(n, 0, 1) < partition\n        trainSet = df[boo, ]\n        testSet = df[!boo, ]\n        cl = trainSet[, ncol(trainSet)]\n        print(nrow(trainSet))\n        print(nrow(testSet))\n        \n        M = knn(trainSet[, 1 : (ncol(trainSet) - 1)], testSet[, 1 : (ncol(testSet) - 1)], cl, 3, prob = F)\n        \n        prediction = array(M)\n        confusion = confusionMatrix(prediction, testSet[, ncol(testSet)])\n        \n        accuracy = sum(prediction == testSet[, ncol(testSet)]) / nrow(testSet)\n        \n        print(i)\n        print(accuracy)\n        # print(confusion)\n        print('====================')\n        \n        testResult[i, ] = c(i, nrow(trainSet), nrow(testSet), accuracy)\n        \n    }\n    \n    return(testResult)\n    \n}\n\ndatasets = c('Corel1000', 'MIT8', 'Caltech101')\noutFile = '../testResult_2.csv'\nwrite('Test Result', outFile)\n\nfor(dataset in datasets){\n    \n    print(dataset)\n    link = paste('../pLSA_2/', dataset, '.csv', sep = '')\n    df = read.csv(link)\n    testResult = simpleCV(df)\n    \n    write(dataset, outFile, append = T)\n    write.table(testResult, outFile, append = T, row.names = F, sep = ',')\n}\n",
+    "contents" : "library(class)\nlibrary(caret)\nsimpleCV <- function(df, ntimes = 5, partition = 0.8){\n    \n    n = dim(df)[1]\n    testResult = matrix(nrow = ntimes, ncol = 4)\n    colnames(testResult) = c('Index', 'nTrain', 'nTest', 'Accuracy')\n    \n    for (i in 1 : ntimes){\n        \n        boo = runif(n, 0, 1) < partition\n        trainSet = df[boo, ]\n        testSet = df[!boo, ]\n        cl = trainSet[, ncol(trainSet)]\n        print(nrow(trainSet))\n        print(nrow(testSet))\n        \n        M = knn(trainSet[, 1 : (ncol(trainSet) - 1)], testSet[, 1 : (ncol(testSet) - 1)], cl, 3, prob = F)\n        \n        prediction = array(M)\n        confusion = confusionMatrix(prediction, testSet[, ncol(testSet)])\n        \n        accuracy = sum(prediction == testSet[, ncol(testSet)]) / nrow(testSet)\n        \n        print(i)\n        print(accuracy)\n        # print(confusion)\n        print('====================')\n        \n        testResult[i, ] = c(i, nrow(trainSet), nrow(testSet), accuracy)\n        \n    }\n    \n    return(testResult)\n    \n}\n\ndatasets = c('Corel1000', 'MIT8', 'Caltech101')\noutFile = '../testResult_100.csv'\nwrite('Test Result', outFile)\n\nfor(dataset in datasets){\n    \n    print(dataset)\n    link = paste('../pLSA_100/', dataset, '.csv', sep = '')\n    df = read.csv(link)\n    testResult = simpleCV(df)\n    \n    write(dataset, outFile, append = T)\n    write.table(testResult, outFile, append = T, row.names = F, sep = ',')\n}\n",
     "created" : 1452845286288.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3328225047",
+    "hash" : "2122978240",
     "id" : "84820DD3",
-    "lastKnownWriteTime" : 1452948594,
-    "path" : "E:/Courses/Final Project/W6/R_codes/Classification.R",
+    "lastKnownWriteTime" : 1452999149,
+    "path" : "E:/Courses/Final Project/ImgTag/pLSA/R_codes/Classification.R",
     "project_path" : "Classification.R",
     "properties" : {
         "tempName" : "Untitled3"

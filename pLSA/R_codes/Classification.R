@@ -36,13 +36,13 @@ simpleCV <- function(df, ntimes = 5, partition = 0.8){
 }
 
 datasets = c('Corel1000', 'MIT8', 'Caltech101')
-outFile = '../testResult_2.csv'
+outFile = '../testResult_100.csv'
 write('Test Result', outFile)
 
 for(dataset in datasets){
     
     print(dataset)
-    link = paste('../pLSA_2/', dataset, '.csv', sep = '')
+    link = paste('../pLSA_100/', dataset, '.csv', sep = '')
     df = read.csv(link)
     testResult = simpleCV(df)
     

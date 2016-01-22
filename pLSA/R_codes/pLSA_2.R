@@ -1,6 +1,8 @@
 
 pLSA_2 <- function(BOW, nTopics, nrep = 20, threshold = 0){
 
+    print(nrep)
+    
     nImages = nrow(BOW)
     nWords = ncol(BOW) - 1 #except the category column
     
@@ -87,6 +89,7 @@ pLSA_2 <- function(BOW, nTopics, nrep = 20, threshold = 0){
             break
         
         lastLikelihood = likelihood
+        print(Sys.time())
         
     }
     
@@ -102,7 +105,7 @@ pLSA_2 <- function(BOW, nTopics, nrep = 20, threshold = 0){
 
 
 
-nTopics = 50
+nTopics = 100
 datasets = c('Corel1000', 'MIT8', 'Caltech101')
 
 for(dataset in datasets){
@@ -110,8 +113,8 @@ for(dataset in datasets){
     link = paste('../BOW/', dataset, '.csv', sep = '')
     BOW = read.csv(link)
     
-    pLSA = pLSA_2(BOW, nTopics)
+    pLSA = pLSA_2(BOW, nTopics, nrep = 30)
     pLSA = cbind(pLSA, BOW$target)
     
-    write.csv(pLSA, file = paste('../pLSA_2/', dataset, '.csv', sep = ''), row.names = F )
+    write.csv(pLSA, file = paste('../pLSA_100/', dataset, '.csv', sep = ''), row.names = F )
 }
