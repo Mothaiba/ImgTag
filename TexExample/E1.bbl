@@ -1,0 +1,1751 @@
+\begin{thebibliography}{100}
+
+\bibitem{DBLP:journals/corr/HuvalWTKSPARMCM15}
+Brody Huval, Tao Wang, Sameep Tandon, Jeff Kiske, Will Song, Joel
+  Pazhayampallil, Mykhaylo Andriluka, Pranav Rajpurkar, Toki Migimatsu, Royce
+  Cheng{-}Yue, Fernando Mujica, Adam Coates, and Andrew~Y. Ng.
+\newblock An empirical evaluation of deep learning on highway driving.
+\newblock {\em CoRR}, abs/1504.01716, 2015.
+
+\bibitem{DBLP:journals/corr/RajpurkarMKCTWN15}
+Pranav Rajpurkar, Toki Migimatsu, Jeff Kiske, Royce Cheng{-}Yue, Sameep Tandon,
+  Tao Wang, and Andrew~Y. Ng.
+\newblock Driverseat: Crowdstrapping learning tasks for autonomous driving.
+\newblock {\em CoRR}, abs/1512.01872, 2015.
+
+\bibitem{DBLP:journals/corr/AmodeiABCCCCCCD15}
+Dario Amodei, Rishita Anubhai, Eric Battenberg, Carl Case, Jared Casper,
+  Bryan~C. Catanzaro, Jingdong Chen, Mike Chrzanowski, Adam Coates, Greg
+  Diamos, Erich Elsen, Jesse Engel, Linxi Fan, Christopher Fougner, Tony Han,
+  Awni~Y. Hannun, Billy Jun, Patrick LeGresley, Libby Lin, Sharan Narang,
+  Andrew~Y. Ng, Sherjil Ozair, Ryan Prenger, Jonathan Raiman, Sanjeev Satheesh,
+  David Seetapun, Shubho Sengupta, Yi~Wang, Zhiqian Wang, Chong Wang, Bo~Xiao,
+  Dani Yogatama, Jun Zhan, and Zhenyao Zhu.
+\newblock Deep speech 2: End-to-end speech recognition in english and mandarin.
+\newblock {\em CoRR}, abs/1512.02595, 2015.
+
+\bibitem{DBLP:journals/ijrr/QuigleySNS14}
+Morgan Quigley, Curt Salisbury, Andrew~Y. Ng, and J.~Kenneth Salisbury.
+\newblock Mechatronic design of an integrated robotic hand.
+\newblock {\em I. J. Robotic Res.}, 33(5):706--720, 2014.
+
+\bibitem{DBLP:journals/tacl/SocherKLMN14}
+Richard Socher, Andrej Karpathy, Quoc~V. Le, Christopher~D. Manning, and
+  Andrew~Y. Ng.
+\newblock Grounded compositional semantics for finding and describing images
+  with sentences.
+\newblock {\em {TACL}}, 2:207--218, 2014.
+
+\bibitem{DBLP:journals/corr/MaasHLQJN14}
+Andrew~L. Maas, Awni~Y. Hannun, Christopher~T. Lengerich, Peng Qi, Daniel
+  Jurafsky, and Andrew~Y. Ng.
+\newblock Increasing deep neural network acoustic model size for large
+  vocabulary continuous speech recognition.
+\newblock {\em CoRR}, abs/1406.7806, 2014.
+
+\bibitem{DBLP:journals/corr/MaasHJN14}
+Andrew~L. Maas, Awni~Y. Hannun, Daniel Jurafsky, and Andrew~Y. Ng.
+\newblock First-pass large vocabulary continuous speech recognition using
+  bi-directional recurrent dnns.
+\newblock {\em CoRR}, abs/1408.2873, 2014.
+
+\bibitem{DBLP:journals/corr/HannunCCCDEPSSCN14}
+Awni~Y. Hannun, Carl Case, Jared Casper, Bryan~C. Catanzaro, Greg Diamos, Erich
+  Elsen, Ryan Prenger, Sanjeev Satheesh, Shubho Sengupta, Adam Coates, and
+  Andrew~Y. Ng.
+\newblock Deep speech: Scaling up end-to-end speech recognition.
+\newblock {\em CoRR}, abs/1412.5567, 2014.
+
+\bibitem{DBLP:conf/acl/SocherBMN13}
+Richard Socher, John Bauer, Christopher~D. Manning, and Andrew~Y. Ng.
+\newblock Parsing with compositional vector grammars.
+\newblock In {\em Proceedings of the 51st Annual Meeting of the Association for
+  Computational Linguistics, {ACL} 2013, 4-9 August 2013, Sofia, Bulgaria,
+  Volume 1: Long Papers\/} \cite{DBLP:conf/acl/2013-1}, pages 455--465.
+
+\bibitem{DBLP:conf/cikm/Ng13}
+Andrew~Y. Ng.
+\newblock The online revolution: education for everyone.
+\newblock In He et~al. \cite{DBLP:conf/cikm/2013}, pages 1913--1914.
+
+\bibitem{DBLP:conf/edm/PiechHCDNK13}
+Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong~B. Do, Andrew~Y. Ng, and
+  Daphne Koller.
+\newblock Tuned models of peer assessment in moocs.
+\newblock In D'Mello et~al. \cite{DBLP:conf/edm/2013}, pages 153--160.
+
+\bibitem{DBLP:conf/icml/CoatesHWWCN13}
+Adam Coates, Brody Huval, Tao Wang, David~J. Wu, Bryan~C. Catanzaro, and
+  Andrew~Y. Ng.
+\newblock Deep learning with {COTS} {HPC} systems.
+\newblock In {\em Proceedings of the 30th International Conference on Machine
+  Learning, {ICML} 2013, Atlanta, GA, USA, 16-21 June 2013\/}
+  \cite{DBLP:conf/icml/2013}, pages 1337--1345.
+
+\bibitem{DBLP:conf/kdd/NgK13}
+Andrew~Y. Ng and Daphne Koller.
+\newblock The online revolution: education for everyone.
+\newblock In Dhillon et~al. \cite{DBLP:conf/kdd/2013}, page~2.
+
+\bibitem{DBLP:conf/nips/SocherCMN13}
+Richard Socher, Danqi Chen, Christopher~D. Manning, and Andrew~Y. Ng.
+\newblock Reasoning with neural tensor networks for knowledge base completion.
+\newblock In Burges et~al. \cite{DBLP:conf/nips/2013}, pages 926--934.
+
+\bibitem{DBLP:conf/nips/SocherGMN13}
+Richard Socher, Milind Ganjoo, Christopher~D. Manning, and Andrew~Y. Ng.
+\newblock Zero-shot learning through cross-modal transfer.
+\newblock In Burges et~al. \cite{DBLP:conf/nips/2013}, pages 935--943.
+
+\bibitem{DBLP:journals/corr/abs-1301-3618}
+Danqi Chen, Richard Socher, Christopher~D. Manning, and Andrew~Y. Ng.
+\newblock Learning new facts from knowledge bases with neural tensor networks
+  and semantic word vectors.
+\newblock {\em CoRR}, abs/1301.3618, 2013.
+
+\bibitem{DBLP:journals/corr/abs-1301-3666}
+Richard Socher, Milind Ganjoo, Hamsa Sridhar, Osbert Bastani, Christopher~D.
+  Manning, and Andrew~Y. Ng.
+\newblock Zero-shot learning through cross-modal transfer.
+\newblock {\em CoRR}, abs/1301.3666, 2013.
+
+\bibitem{DBLP:journals/corr/abs-1301-3878}
+Andrew~Y. Ng and Michael~I. Jordan.
+\newblock {PEGASUS:} {A} policy search method for large mdps and pomdps.
+\newblock {\em CoRR}, abs/1301.3878, 2013.
+
+\bibitem{DBLP:journals/corr/abs-1302-1552}
+Michael Kearns, Yishay Mansour, and Andrew~Y. Ng.
+\newblock An information-theoretic analysis of hard and soft assignment methods
+  for clustering.
+\newblock {\em CoRR}, abs/1302.1552, 2013.
+
+\bibitem{DBLP:journals/corr/PiechHCDNK13}
+Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong~B. Do, Andrew~Y. Ng, and
+  Daphne Koller.
+\newblock Tuned models of peer assessment in moocs.
+\newblock {\em CoRR}, abs/1307.2579, 2013.
+
+\bibitem{DBLP:journals/corr/HuvalCN13}
+Brody Huval, Adam Coates, and Andrew~Y. Ng.
+\newblock Deep learning for class-generic object detection.
+\newblock {\em CoRR}, abs/1312.6885, 2013.
+
+\bibitem{DBLP:conf/acl/HuangSMN12}
+Eric~H. Huang, Richard Socher, Christopher~D. Manning, and Andrew~Y. Ng.
+\newblock Improving word representations via global context and multiple word
+  prototypes.
+\newblock In {\em The 50th Annual Meeting of the Association for Computational
+  Linguistics, Proceedings of the Conference, July 8-14, 2012, Jeju Island,
+  Korea - Volume 1: Long Papers\/} \cite{DBLP:conf/acl/2012-1}, pages 873--882.
+
+\bibitem{DBLP:conf/emnlp/SocherHMN12}
+Richard Socher, Brody Huval, Christopher~D. Manning, and Andrew~Y. Ng.
+\newblock Semantic compositionality through recursive matrix-vector spaces.
+\newblock In Tsujii et~al. \cite{DBLP:conf/emnlp/2012}, pages 1201--1211.
+
+\bibitem{DBLP:conf/icml/LeRMDCCDN12}
+Quoc~V. Le, Marc'Aurelio Ranzato, Rajat Monga, Matthieu Devin, Greg Corrado,
+  Kai Chen, Jeffrey Dean, and Andrew~Y. Ng.
+\newblock Building high-level features using large scale unsupervised learning.
+\newblock In {\em Proceedings of the 29th International Conference on Machine
+  Learning, {ICML} 2012, Edinburgh, Scotland, UK, June 26 - July 1, 2012\/}
+  \cite{DBLP:conf/icml/2012}.
+
+\bibitem{DBLP:conf/icpr/WangWCN12}
+Tao Wang, David~J. Wu, Adam Coates, and Andrew~Y. Ng.
+\newblock End-to-end text recognition with convolutional neural networks.
+\newblock In {\em Proceedings of the 21st International Conference on Pattern
+  Recognition, {ICPR} 2012, Tsukuba, Japan, November 11-15, 2012\/}
+  \cite{DBLP:conf/icpr/2012}, pages 3304--3308.
+
+\bibitem{DBLP:conf/interspeech/MaasLOVNN12}
+Andrew~L. Maas, Quoc~V. Le, Tyler~M. O'Neil, Oriol Vinyals, Patrick Nguyen, and
+  Andrew~Y. Ng.
+\newblock Recurrent neural networks for noise reduction in robust {ASR}.
+\newblock In {\em {INTERSPEECH} 2012, 13th Annual Conference of the
+  International Speech Communication Association, Portland, Oregon, USA,
+  September 9-13, 2012\/} \cite{DBLP:conf/interspeech/2012}, pages 22--25.
+
+\bibitem{DBLP:conf/nips/SocherHBMN12}
+Richard Socher, Brody Huval, Bharath~Putta Bath, Christopher~D. Manning, and
+  Andrew~Y. Ng.
+\newblock Convolutional-recursive deep learning for 3d object classification.
+\newblock In Bartlett et~al. \cite{DBLP:conf/nips/2012}, pages 665--673.
+
+\bibitem{DBLP:conf/nips/DeanCMCDLMRSTYN12}
+Jeffrey Dean, Greg Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Quoc~V. Le,
+  Mark~Z. Mao, Marc'Aurelio Ranzato, Andrew~W. Senior, Paul~A. Tucker, Ke~Yang,
+  and Andrew~Y. Ng.
+\newblock Large scale distributed deep networks.
+\newblock In Bartlett et~al. \cite{DBLP:conf/nips/2012}, pages 1232--1240.
+
+\bibitem{DBLP:conf/nips/CoatesKN12}
+Adam Coates, Andrej Karpathy, and Andrew~Y. Ng.
+\newblock Emergence of object-selective features in unsupervised feature
+  learning.
+\newblock In Bartlett et~al. \cite{DBLP:conf/nips/2012}, pages 2690--2698.
+
+\bibitem{DBLP:conf/nips/ZouNZY12}
+Will~Y. Zou, Andrew~Y. Ng, Shenghuo Zhu, and Kai Yu.
+\newblock Deep learning of invariant features via simulated fixations in video.
+\newblock In Bartlett et~al. \cite{DBLP:conf/nips/2012}, pages 3212--3220.
+
+\bibitem{DBLP:series/lncs/CoatesN12}
+Adam Coates and Andrew~Y. Ng.
+\newblock Learning feature representations with k-means.
+\newblock In Montavon et~al. \cite{DBLP:series/lncs/7700}, pages 561--580.
+
+\bibitem{DBLP:journals/corr/abs-1206-3959}
+Jeff~A. Bilmes and Andrew~Y. Ng.
+\newblock Proceedings of the twenty-fifth conference on uncertainty in
+  artificial intelligence {(2009)}.
+\newblock {\em CoRR}, abs/1206.3959, 2012.
+
+\bibitem{DBLP:journals/corr/abs-1206-5241}
+Roger~B. Grosse, Rajat Raina, Helen Kwong, and Andrew~Y. Ng.
+\newblock Shift-invariance sparse coding for audio classification.
+\newblock {\em CoRR}, abs/1206.5241, 2012.
+
+\bibitem{DBLP:journals/corr/abs-1207-1366}
+Pieter Abbeel, Daphne Koller, and Andrew~Y. Ng.
+\newblock Learning factor graphs in polynomial time {\&}amp; sample complexity.
+\newblock {\em CoRR}, abs/1207.1366, 2012.
+
+\bibitem{DBLP:journals/cacm/LeeGRN11}
+Honglak Lee, Roger~B. Grosse, Rajesh Ranganath, and Andrew~Y. Ng.
+\newblock Unsupervised learning of hierarchical representations with
+  convolutional deep belief networks.
+\newblock {\em Commun. {ACM}}, 54(10):95--103, 2011.
+
+\bibitem{DBLP:journals/ijrr/KolterN11}
+J.~Zico Kolter and Andrew~Y. Ng.
+\newblock The stanford littledog: {A} learning and rapid replanning approach to
+  quadruped locomotion.
+\newblock {\em I. J. Robotic Res.}, 30(2):150--174, 2011.
+
+\bibitem{DBLP:conf/acl/MaasDPHNP11}
+Andrew~L. Maas, Raymond~E. Daly, Peter~T. Pham, Dan Huang, Andrew~Y. Ng, and
+  Christopher Potts.
+\newblock Learning word vectors for sentiment analysis.
+\newblock In Lin et~al. \cite{DBLP:conf/acl/2011}, pages 142--150.
+
+\bibitem{DBLP:conf/cvpr/LeZYN11}
+Quoc~V. Le, Will~Y. Zou, Serena~Y. Yeung, and Andrew~Y. Ng.
+\newblock Learning hierarchical invariant spatio-temporal features for action
+  recognition with independent subspace analysis.
+\newblock In {\em The 24th {IEEE} Conference on Computer Vision and Pattern
+  Recognition, {CVPR} 2011, Colorado Springs, CO, USA, 20-25 June 2011\/}
+  \cite{DBLP:conf/cvpr/2011}, pages 3361--3368.
+
+\bibitem{DBLP:conf/emnlp/SocherPHNM11}
+Richard Socher, Jeffrey Pennington, Eric~H. Huang, Andrew~Y. Ng, and
+  Christopher~D. Manning.
+\newblock Semi-supervised recursive autoencoders for predicting sentiment
+  distributions.
+\newblock In {\em Proceedings of the 2011 Conference on Empirical Methods in
+  Natural Language Processing, {EMNLP} 2011, 27-31 July 2011, John McIntyre
+  Conference Centre, Edinburgh, UK, {A} meeting of SIGDAT, a Special Interest
+  Group of the {ACL}\/} \cite{DBLP:conf/emnlp/2011}, pages 151--161.
+
+\bibitem{DBLP:conf/icdar/CoatesCCSSWWN11}
+Adam Coates, Blake Carpenter, Carl Case, Sanjeev Satheesh, Bipin Suresh, Tao
+  Wang, David~J. Wu, and Andrew~Y. Ng.
+\newblock Text detection and character recognition in scene images with
+  unsupervised feature learning.
+\newblock In {\em 2011 International Conference on Document Analysis and
+  Recognition, {ICDAR} 2011, Beijing, China, September 18-21, 2011\/}
+  \cite{DBLP:conf/icdar/2011}, pages 440--445.
+
+\bibitem{DBLP:conf/icml/SocherLNM11}
+Richard Socher, Cliff~Chiung{-}Yu Lin, Andrew~Y. Ng, and Christopher~D.
+  Manning.
+\newblock Parsing natural scenes and natural language with recursive neural
+  networks.
+\newblock In Getoor and Scheffer \cite{DBLP:conf/icml/2011}, pages 129--136.
+
+\bibitem{DBLP:conf/icml/LeNCLPN11}
+Quoc~V. Le, Jiquan Ngiam, Adam Coates, Ahbik Lahiri, Bobby Prochnow, and
+  Andrew~Y. Ng.
+\newblock On optimization methods for deep learning.
+\newblock In Getoor and Scheffer \cite{DBLP:conf/icml/2011}, pages 265--272.
+
+\bibitem{DBLP:conf/icml/NgiamKKNLN11}
+Jiquan Ngiam, Aditya Khosla, Mingyu Kim, Juhan Nam, Honglak Lee, and Andrew~Y.
+  Ng.
+\newblock Multimodal deep learning.
+\newblock In Getoor and Scheffer \cite{DBLP:conf/icml/2011}, pages 689--696.
+
+\bibitem{DBLP:conf/icml/CoatesN11}
+Adam Coates and Andrew~Y. Ng.
+\newblock The importance of encoding versus training with sparse coding and
+  vector quantization.
+\newblock In Getoor and Scheffer \cite{DBLP:conf/icml/2011}, pages 921--928.
+
+\bibitem{DBLP:conf/icml/SaxeKCBSN11}
+Andrew~M. Saxe, Pang~Wei Koh, Zhenghao Chen, Maneesh Bhand, Bipin Suresh, and
+  Andrew~Y. Ng.
+\newblock On random weights and unsupervised feature learning.
+\newblock In Getoor and Scheffer \cite{DBLP:conf/icml/2011}, pages 1089--1096.
+
+\bibitem{DBLP:conf/icml/NgiamCKN11}
+Jiquan Ngiam, Zhenghao Chen, Pang~Wei Koh, and Andrew~Y. Ng.
+\newblock Learning deep energy models.
+\newblock In Getoor and Scheffer \cite{DBLP:conf/icml/2011}, pages 1105--1112.
+
+\bibitem{DBLP:conf/icra/KlingbeilRCGNK11}
+Ellen Klingbeil, Deepak Rao, Blake Carpenter, Varun Ganapathi, Andrew~Y. Ng,
+  and Oussama Khatib.
+\newblock Grasping with application to an autonomous checkout robot.
+\newblock In {\em {IEEE} International Conference on Robotics and Automation,
+  {ICRA} 2011, Shanghai, China, 9-13 May 2011\/} \cite{DBLP:conf/icra/2011},
+  pages 2837--2844.
+
+\bibitem{DBLP:conf/icra/CaseSCN11}
+Carl Case, Bipin Suresh, Adam Coates, and Andrew~Y. Ng.
+\newblock Autonomous sign reading for semantic mapping.
+\newblock In {\em {IEEE} International Conference on Robotics and Automation,
+  {ICRA} 2011, Shanghai, China, 9-13 May 2011\/} \cite{DBLP:conf/icra/2011},
+  pages 3297--3303.
+
+\bibitem{DBLP:conf/icra/QuigleyAN11}
+Morgan Quigley, Alan~T. Asbeck, and Andrew~Y. Ng.
+\newblock A low-cost compliant 7-dof robotic manipulator.
+\newblock In {\em {IEEE} International Conference on Robotics and Automation,
+  {ICRA} 2011, Shanghai, China, 9-13 May 2011\/} \cite{DBLP:conf/icra/2011},
+  pages 6051--6058.
+
+\bibitem{DBLP:conf/nips/SocherHPNM11}
+Richard Socher, Eric~H. Huang, Jeffrey Pennington, Andrew~Y. Ng, and
+  Christopher~D. Manning.
+\newblock Dynamic pooling and unfolding recursive autoencoders for paraphrase
+  detection.
+\newblock In Shawe{-}Taylor et~al. \cite{DBLP:conf/nips/2011}, pages 801--809.
+
+\bibitem{DBLP:conf/nips/LeKNN11}
+Quoc~V. Le, Alexandre Karpenko, Jiquan Ngiam, and Andrew~Y. Ng.
+\newblock {ICA} with reconstruction cost for efficient overcomplete feature
+  learning.
+\newblock In Shawe{-}Taylor et~al. \cite{DBLP:conf/nips/2011}, pages
+  1017--1025.
+
+\bibitem{DBLP:conf/nips/NgiamKCBN11}
+Jiquan Ngiam, Pang~Wei Koh, Zhenghao Chen, Sonia~A. Bhaskar, and Andrew~Y. Ng.
+\newblock Sparse filtering.
+\newblock In Shawe{-}Taylor et~al. \cite{DBLP:conf/nips/2011}, pages
+  1125--1133.
+
+\bibitem{DBLP:conf/nips/SaxeBMSN11}
+Andrew~M. Saxe, Maneesh Bhand, Ritvik Mudur, Bipin Suresh, and Andrew~Y. Ng.
+\newblock Unsupervised learning models of primary cortical receptive fields and
+  receptive field plasticity.
+\newblock In Shawe{-}Taylor et~al. \cite{DBLP:conf/nips/2011}, pages
+  1971--1979.
+
+\bibitem{DBLP:conf/nips/CoatesN11}
+Adam Coates and Andrew~Y. Ng.
+\newblock Selecting receptive fields in deep networks.
+\newblock In Shawe{-}Taylor et~al. \cite{DBLP:conf/nips/2011}, pages
+  2528--2536.
+
+\bibitem{DBLP:journals/jmlr/CoatesNL11}
+Adam Coates, Andrew~Y. Ng, and Honglak Lee.
+\newblock An analysis of single-layer networks in unsupervised feature
+  learning.
+\newblock In Gordon et~al. \cite{DBLP:conf/aistats/2011}, pages 215--223.
+
+\bibitem{DBLP:journals/corr/abs-1112-6209}
+Quoc~V. Le, Rajat Monga, Matthieu Devin, Greg Corrado, Kai Chen, Marc'Aurelio
+  Ranzato, Jeffrey Dean, and Andrew~Y. Ng.
+\newblock Building high-level features using large scale unsupervised learning.
+\newblock {\em CoRR}, abs/1112.6209, 2011.
+
+\bibitem{DBLP:journals/ijrr/AbbeelCN10}
+Pieter Abbeel, Adam Coates, and Andrew~Y. Ng.
+\newblock Autonomous helicopter aerobatics through apprenticeship learning.
+\newblock {\em I. J. Robotic Res.}, 29(13):1608--1639, 2010.
+
+\bibitem{DBLP:conf/aaai/QuigleyAN10}
+Morgan Quigley, Alan~T. Asbeck, and Andrew~Y. Ng.
+\newblock Low-cost manipulation powered by {ROS}.
+\newblock In {\em Enabling Intelligence through Middleware, Papers from the
+  2010 {AAAI} Robot Workshop, Atlanta, Georgia, USA, July 12, 2010\/}
+  \cite{DBLP:conf/aaai/2010middle}.
+
+\bibitem{DBLP:conf/cvpr/RussakovskyN10}
+Olga Russakovsky and Andrew~Y. Ng.
+\newblock A steiner tree approach to efficient object detection.
+\newblock In {\em The Twenty-Third {IEEE} Conference on Computer Vision and
+  Pattern Recognition, {CVPR} 2010, San Francisco, CA, USA, 13-18 June 2010\/}
+  \cite{DBLP:conf/cvpr/2010}, pages 1070--1077.
+
+\bibitem{DBLP:conf/icra/CoatesN10}
+Adam Coates and Andrew~Y. Ng.
+\newblock Multi-camera object detection for robotics.
+\newblock In {\em {IEEE} International Conference on Robotics and Automation,
+  {ICRA} 2010, Anchorage, Alaska, USA, 3-7 May 2010\/}
+  \cite{DBLP:conf/icra/2010}, pages 412--419.
+
+\bibitem{DBLP:conf/icra/KlingbeilCRN10}
+Ellen Klingbeil, Blake Carpenter, Olga Russakovsky, and Andrew~Y. Ng.
+\newblock Autonomous operation of novel elevators for robot navigation.
+\newblock In {\em {IEEE} International Conference on Robotics and Automation,
+  {ICRA} 2010, Anchorage, Alaska, USA, 3-7 May 2010\/}
+  \cite{DBLP:conf/icra/2010}, pages 751--758.
+
+\bibitem{DBLP:conf/icra/KolterPJNT10}
+J.~Zico Kolter, Christian Plagemann, David~T. Jackson, Andrew~Y. Ng, and
+  Sebastian Thrun.
+\newblock A probabilistic approach to mixed open-loop and closed-loop control,
+  with application to extreme autonomous driving.
+\newblock In {\em {IEEE} International Conference on Robotics and Automation,
+  {ICRA} 2010, Anchorage, Alaska, USA, 3-7 May 2010\/}
+  \cite{DBLP:conf/icra/2010}, pages 839--845.
+
+\bibitem{DBLP:conf/icra/LeKKN10}
+Quoc~V. Le, David Kamm, A.~F. Kara, and Andrew~Y. Ng.
+\newblock Learning to grasp objects with multiple contact points.
+\newblock In {\em {IEEE} International Conference on Robotics and Automation,
+  {ICRA} 2010, Anchorage, Alaska, USA, 3-7 May 2010\/}
+  \cite{DBLP:conf/icra/2010}, pages 5062--5069.
+
+\bibitem{DBLP:conf/iros/RaoLPQSN10}
+Deepak Rao, Quoc~V. Le, Thanathorn Phoka, Morgan Quigley, Attawith Sudsang, and
+  Andrew~Y. Ng.
+\newblock Grasping novel objects with depth segmentation.
+\newblock In {\em 2010 {IEEE/RSJ} International Conference on Intelligent
+  Robots and Systems, October 18-22, 2010, Taipei, Taiwan\/}
+  \cite{DBLP:conf/iros/2010}, pages 2578--2585.
+
+\bibitem{DBLP:conf/iros/KlingbeilSN10}
+Ellen Klingbeil, Ashutosh Saxena, and Andrew~Y. Ng.
+\newblock Learning to open new doors.
+\newblock In {\em 2010 {IEEE/RSJ} International Conference on Intelligent
+  Robots and Systems, October 18-22, 2010, Taipei, Taiwan\/}
+  \cite{DBLP:conf/iros/2010}, pages 2751--2757.
+
+\bibitem{DBLP:conf/iros/QuigleyBSPLN10}
+Morgan Quigley, Reuben~D. Brewer, Sai~Prashanth Soundararaj, Vijay Pradeep,
+  Quoc~V. Le, and Andrew~Y. Ng.
+\newblock Low-cost accelerometers for robotic manipulator perception.
+\newblock In {\em 2010 {IEEE/RSJ} International Conference on Intelligent
+  Robots and Systems, October 18-22, 2010, Taipei, Taiwan\/}
+  \cite{DBLP:conf/iros/2010}, pages 6168--6174.
+
+\bibitem{DBLP:conf/nips/KolterBN10}
+J.~Zico Kolter, Siddharth Batra, and Andrew~Y. Ng.
+\newblock Energy disaggregation via discriminative sparse coding.
+\newblock In Lafferty et~al. \cite{DBLP:conf/nips/2010}, pages 1153--1161.
+
+\bibitem{DBLP:conf/nips/LeNCCKN10}
+Quoc~V. Le, Jiquan Ngiam, Zhenghao Chen, Daniel~Jin hao Chia, Pang~Wei Koh, and
+  Andrew~Y. Ng.
+\newblock Tiled convolutional neural networks.
+\newblock In Lafferty et~al. \cite{DBLP:conf/nips/2010}, pages 1279--1287.
+
+\bibitem{DBLP:reference/ml/CoatesAN10}
+Adam Coates, Pieter Abbeel, and Andrew~Y. Ng.
+\newblock Autonomous helicopter flight using reinforcement learning.
+\newblock In Sammut and Webb \cite{DBLP:reference/ml/2010}, pages 53--61.
+
+\bibitem{DBLP:reference/ml/AbbeelN10}
+Pieter Abbeel and Andrew~Y. Ng.
+\newblock Inverse reinforcement learning.
+\newblock In Sammut and Webb \cite{DBLP:reference/ml/2010}, pages 554--558.
+
+\bibitem{DBLP:journals/arobots/PetersN09}
+Jan Peters and Andrew~Y. Ng.
+\newblock Guest editorial: Special issue on robot learning, part {A}.
+\newblock {\em Auton. Robots}, 27(1):1--2, 2009.
+
+\bibitem{DBLP:journals/arobots/PetersN09a}
+Jan Peters and Andrew~Y. Ng.
+\newblock Guest editorial: Special issue on robot learning, part {B}.
+\newblock {\em Auton. Robots}, 27(2):91--92, 2009.
+
+\bibitem{DBLP:journals/cacm/CoatesAN09}
+Adam Coates, Pieter Abbeel, and Andrew~Y. Ng.
+\newblock Apprenticeship learning for helicopter control.
+\newblock {\em Commun. {ACM}}, 52(7):97--105, 2009.
+
+\bibitem{DBLP:journals/pami/SaxenaSN09}
+Ashutosh Saxena, Min Sun, and Andrew~Y. Ng.
+\newblock Make3d: Learning 3d scene structure from a single still image.
+\newblock {\em {IEEE} Trans. Pattern Anal. Mach. Intell.}, 31(5):824--840,
+  2009.
+
+\bibitem{DBLP:conf/icml/FooDN09}
+Chuan{-}Sheng Foo, Chuong~B. Do, and Andrew~Y. Ng.
+\newblock A majorization-minimization algorithm for (multiple) hyperparameter
+  learning.
+\newblock In Danyluk et~al. \cite{DBLP:conf/icml/2009}, pages 321--328.
+
+\bibitem{DBLP:conf/icml/KolterN09}
+J.~Zico Kolter and Andrew~Y. Ng.
+\newblock Near-bayesian exploration in polynomial time.
+\newblock In Danyluk et~al. \cite{DBLP:conf/icml/2009}, pages 513--520.
+
+\bibitem{DBLP:conf/icml/KolterN09a}
+J.~Zico Kolter and Andrew~Y. Ng.
+\newblock Regularization and feature selection in least-squares temporal
+  difference learning.
+\newblock In Danyluk et~al. \cite{DBLP:conf/icml/2009}, pages 521--528.
+
+\bibitem{DBLP:conf/icml/LeeGRN09}
+Honglak Lee, Roger~B. Grosse, Rajesh Ranganath, and Andrew~Y. Ng.
+\newblock Convolutional deep belief networks for scalable unsupervised learning
+  of hierarchical representations.
+\newblock In Danyluk et~al. \cite{DBLP:conf/icml/2009}, pages 609--616.
+
+\bibitem{DBLP:conf/icml/RainaMN09}
+Rajat Raina, Anand Madhavan, and Andrew~Y. Ng.
+\newblock Large-scale deep unsupervised learning using graphics processors.
+\newblock In Danyluk et~al. \cite{DBLP:conf/icml/2009}, pages 873--880.
+
+\bibitem{DBLP:conf/icra/SaxenaDN09}
+Ashutosh Saxena, Justin Driemeyer, and Andrew~Y. Ng.
+\newblock Learning 3-d object orientation from images.
+\newblock In {\em 2009 {IEEE} International Conference on Robotics and
+  Automation, {ICRA} 2009, Kobe, Japan, May 12-17, 2009\/}
+  \cite{DBLP:conf/icra/2009}, pages 794--800.
+
+\bibitem{DBLP:conf/icra/KolterKN09}
+J.~Zico Kolter, Youngjun Kim, and Andrew~Y. Ng.
+\newblock Stereo vision and terrain modeling for quadruped robots.
+\newblock In {\em 2009 {IEEE} International Conference on Robotics and
+  Automation, {ICRA} 2009, Kobe, Japan, May 12-17, 2009\/}
+  \cite{DBLP:conf/icra/2009}, pages 1557--1564.
+
+\bibitem{DBLP:conf/icra/KolterN09}
+J.~Zico Kolter and Andrew~Y. Ng.
+\newblock Task-space trajectories via cubic spline optimization.
+\newblock In {\em 2009 {IEEE} International Conference on Robotics and
+  Automation, {ICRA} 2009, Kobe, Japan, May 12-17, 2009\/}
+  \cite{DBLP:conf/icra/2009}, pages 1675--1682.
+
+\bibitem{DBLP:conf/icra/SaxenaN09}
+Ashutosh Saxena and Andrew~Y. Ng.
+\newblock Learning sound location from a single microphone.
+\newblock In {\em 2009 {IEEE} International Conference on Robotics and
+  Automation, {ICRA} 2009, Kobe, Japan, May 12-17, 2009\/}
+  \cite{DBLP:conf/icra/2009}, pages 1737--1742.
+
+\bibitem{DBLP:conf/icra/HsiaoNHSN09}
+Kaijen Hsiao, Paul Nangeroni, Manfred Huber, Ashutosh Saxena, and Andrew~Y. Ng.
+\newblock Reactive grasping using optical proximity sensors.
+\newblock In {\em 2009 {IEEE} International Conference on Robotics and
+  Automation, {ICRA} 2009, Kobe, Japan, May 12-17, 2009\/}
+  \cite{DBLP:conf/icra/2009}, pages 2098--2105.
+
+\bibitem{DBLP:conf/icra/QuigleyBGKLWN09}
+Morgan Quigley, Siddharth Batra, Stephen Gould, Ellen Klingbeil, Quoc~V. Le,
+  Ashley Wellman, and Andrew~Y. Ng.
+\newblock High-accuracy 3d sensing for mobile manipulation: Improving object
+  detection and door opening.
+\newblock In {\em 2009 {IEEE} International Conference on Robotics and
+  Automation, {ICRA} 2009, Kobe, Japan, May 12-17, 2009\/}
+  \cite{DBLP:conf/icra/2009}, pages 2816--2822.
+
+\bibitem{DBLP:conf/ijcai/LeeRTN09}
+Honglak Lee, Rajat Raina, Alex Teichman, and Andrew~Y. Ng.
+\newblock Exponential family sparse coding with application to self-taught
+  learning.
+\newblock In Boutilier \cite{DBLP:conf/ijcai/2009}, pages 1113--1119.
+
+\bibitem{DBLP:conf/iros/LeN09}
+Quoc~V. Le and Andrew~Y. Ng.
+\newblock Joint calibration of multiple sensors.
+\newblock In {\em 2009 {IEEE/RSJ} International Conference on Intelligent
+  Robots and Systems, October 11-15, 2009, St. Louis, MO, {USA}\/}
+  \cite{DBLP:conf/iros/2009}, pages 3651--3658.
+
+\bibitem{DBLP:conf/iros/CoatesBLN09}
+Adam Coates, Paul Baumstarck, Quoc~V. Le, and Andrew~Y. Ng.
+\newblock Scalable learning for object detection with {GPU} hardware.
+\newblock In {\em 2009 {IEEE/RSJ} International Conference on Intelligent
+  Robots and Systems, October 11-15, 2009, St. Louis, MO, {USA}\/}
+  \cite{DBLP:conf/iros/2009}, pages 4287--4293.
+
+\bibitem{DBLP:conf/nips/GoodfellowLSLN09}
+Ian~J. Goodfellow, Quoc~V. Le, Andrew~M. Saxe, Honglak Lee, and Andrew~Y. Ng.
+\newblock Measuring invariances in deep networks.
+\newblock In Bengio et~al. \cite{DBLP:conf/nips/2009}, pages 646--654.
+
+\bibitem{DBLP:conf/nips/LeePLN09}
+Honglak Lee, Peter~T. Pham, Yan Largman, and Andrew~Y. Ng.
+\newblock Unsupervised feature learning for audio classification using
+  convolutional deep belief networks.
+\newblock In Bengio et~al. \cite{DBLP:conf/nips/2009}, pages 1096--1104.
+
+\bibitem{DBLP:conf/rss/KolterN09}
+J.~Zico Kolter and Andrew~Y. Ng.
+\newblock Policy search via the signed derivative.
+\newblock In Trinkle et~al. \cite{DBLP:conf/rss/2009}.
+
+\bibitem{DBLP:conf/vmv/SrivastavaSTTN09}
+Savil Srivastava, Ashutosh Saxena, Christian Theobalt, Sebastian Thrun, and
+  Andrew~Y. Ng.
+\newblock i23 - rapid interactive 3d reconstruction from a single image.
+\newblock In Magnor et~al. \cite{DBLP:conf/vmv/2009}, pages 19--28.
+
+\bibitem{DBLP:conf/uai/2009}
+Jeff~A. Bilmes and Andrew~Y. Ng, editors.
+\newblock {\em {UAI} 2009, Proceedings of the Twenty-Fifth Conference on
+  Uncertainty in Artificial Intelligence, Montreal, QC, Canada, June 18-21,
+  2009}. {AUAI} Press, 2009.
+
+\bibitem{DBLP:journals/ijcv/SaxenaCN08}
+Ashutosh Saxena, Sung~H. Chung, and Andrew~Y. Ng.
+\newblock 3-d depth reconstruction from a single still image.
+\newblock {\em International Journal of Computer Vision}, 76(1):53--69, 2008.
+
+\bibitem{DBLP:journals/ijrr/SaxenaDN08}
+Ashutosh Saxena, Justin Driemeyer, and Andrew~Y. Ng.
+\newblock Robotic grasping of novel objects using vision.
+\newblock {\em I. J. Robotic Res.}, 27(2):157--173, 2008.
+
+\bibitem{DBLP:conf/aaai/SappSN08}
+Benjamin Sapp, Ashutosh Saxena, and Andrew~Y. Ng.
+\newblock A fast data collection and augmentation procedure for object
+  recognition.
+\newblock In Fox and Gomes \cite{DBLP:conf/aaai/2008}, pages 1402--1408.
+
+\bibitem{DBLP:conf/aaai/SaxenaWN08}
+Ashutosh Saxena, Lawson L.~S. Wong, and Andrew~Y. Ng.
+\newblock Learning grasp strategies with partial shape information.
+\newblock In Fox and Gomes \cite{DBLP:conf/aaai/2008}, pages 1491--1494.
+
+\bibitem{DBLP:conf/aaai/SaxenaSN08}
+Ashutosh Saxena, Min Sun, and Andrew~Y. Ng.
+\newblock Make3d: Depth perception from a single still image.
+\newblock In Fox and Gomes \cite{DBLP:conf/aaai/2008}, pages 1571--1576.
+
+\bibitem{DBLP:conf/emnlp/SnowOJN08}
+Rion Snow, Brendan O'Connor, Daniel Jurafsky, and Andrew~Y. Ng.
+\newblock Cheap and fast - but is it good? evaluating non-expert annotations
+  for natural language tasks.
+\newblock In {\em 2008 Conference on Empirical Methods in Natural Language
+  Processing, {EMNLP} 2008, Proceedings of the Conference, 25-27 October 2008,
+  Honolulu, Hawaii, USA, {A} meeting of SIGDAT, a Special Interest Group of the
+  {ACL}\/} \cite{DBLP:conf/emnlp/2008}, pages 254--263.
+
+\bibitem{DBLP:conf/icml/CoatesAN08}
+Adam Coates, Pieter Abbeel, and Andrew~Y. Ng.
+\newblock Learning for control from multiple demonstrations.
+\newblock In Cohen et~al. \cite{DBLP:conf/icml/2008}, pages 144--151.
+
+\bibitem{DBLP:conf/icml/KolterCNGD08}
+J.~Zico Kolter, Adam Coates, Andrew~Y. Ng, Yi~Gu, and Charles DuHadway.
+\newblock Space-indexed dynamic programming: learning to follow trajectories.
+\newblock In Cohen et~al. \cite{DBLP:conf/icml/2008}, pages 488--495.
+
+\bibitem{DBLP:conf/icra/KolterRN08}
+J.~Zico Kolter, Mike~P. Rodgers, and Andrew~Y. Ng.
+\newblock A control architecture for quadruped locomotion over rough terrain.
+\newblock In {\em 2008 {IEEE} International Conference on Robotics and
+  Automation, {ICRA} 2008, May 19-23, 2008, Pasadena, California, {USA}\/}
+  \cite{DBLP:conf/icra/2008}, pages 811--818.
+
+\bibitem{DBLP:conf/iros/AbbeelDNT08}
+Pieter Abbeel, Dmitri Dolgov, Andrew~Y. Ng, and Sebastian Thrun.
+\newblock Apprenticeship learning for motion planning with application to
+  parking lot navigation.
+\newblock In {\em 2008 {IEEE/RSJ} International Conference on Intelligent
+  Robots and Systems, September 22-26, 2008, Acropolis Convention Center, Nice,
+  France\/} \cite{DBLP:conf/iros/2008}, pages 1083--1090.
+
+\bibitem{DBLP:conf/iser/AbbeelCHN08}
+Pieter Abbeel, Adam Coates, Timothy Hunter, and Andrew~Y. Ng.
+\newblock Autonomous autorotation of an {RC} helicopter.
+\newblock In Khatib et~al. \cite{DBLP:conf/iser/2008}, pages 385--394.
+
+\bibitem{DBLP:journals/ijrr/MatsuokaCSCNT07}
+Masayoshi Matsuoka, Alan Chen, Surya P.~N. Singh, Adam Coates, Andrew~Y. Ng,
+  and Sebastian Thrun.
+\newblock Autonomous helicopter tracking and localization using a
+  self-surveying camera array.
+\newblock {\em I. J. Robotic Res.}, 26(2):205--215, 2007.
+
+\bibitem{DBLP:conf/emnlp/SnowPJN07}
+Rion Snow, Sushant Prakash, Daniel Jurafsky, and Andrew~Y. Ng.
+\newblock Learning to merge word senses.
+\newblock In Eisner \cite{DBLP:conf/emnlp/2007}, pages 1005--1014.
+
+\bibitem{DBLP:conf/iccv/SaxenaSN07}
+Ashutosh Saxena, Min Sun, and Andrew~Y. Ng.
+\newblock Learning 3-d scene structure from a single still image.
+\newblock In {\em {IEEE} 11th International Conference on Computer Vision,
+  {ICCV} 2007, Rio de Janeiro, Brazil, October 14-20, 2007\/}
+  \cite{DBLP:conf/iccv/2007}, pages 1--8.
+
+\bibitem{DBLP:conf/iccv/SaxenaSN07a}
+Ashutosh Saxena, Min Sun, and Andrew~Y. Ng.
+\newblock 3-d reconstruction from sparse views using monocular vision.
+\newblock In {\em {IEEE} 11th International Conference on Computer Vision,
+  {ICCV} 2007, Rio de Janeiro, Brazil, October 14-20, 2007\/}
+  \cite{DBLP:conf/iccv/2007}, pages 1--8.
+
+\bibitem{DBLP:conf/icml/RainaBLPN07}
+Rajat Raina, Alexis Battle, Honglak Lee, Benjamin Packer, and Andrew~Y. Ng.
+\newblock Self-taught learning: transfer learning from unlabeled data.
+\newblock In Ghahramani \cite{DBLP:conf/icml/2007}, pages 759--766.
+
+\bibitem{DBLP:conf/ijcai/GouldAKSMBBCN07}
+Stephen Gould, Joakim Arfvidsson, Adrian Kaehler, Benjamin Sapp, Marius
+  Messner, Gary~R. Bradski, Paul Baumstarck, Sukwon Chung, and Andrew~Y. Ng.
+\newblock Peripheral-foveal vision for real-time object recognition and
+  tracking in video.
+\newblock In Veloso \cite{DBLP:conf/ijcai/2007}, pages 2115--2121.
+
+\bibitem{DBLP:conf/ijcai/PetrovskayaN07}
+Anna Petrovskaya and Andrew~Y. Ng.
+\newblock Probabilistic mobile manipulation in dynamic environments, with
+  application to opening doors.
+\newblock In Veloso \cite{DBLP:conf/ijcai/2007}, pages 2178--2184.
+
+\bibitem{DBLP:conf/ijcai/SaxenaSN07}
+Ashutosh Saxena, Jamie Schulte, and Andrew~Y. Ng.
+\newblock Depth estimation using monocular and stereo cues.
+\newblock In Veloso \cite{DBLP:conf/ijcai/2007}, pages 2197--2203.
+
+\bibitem{DBLP:conf/ijcai/KremenekNE07}
+Ted Kremenek, Andrew~Y. Ng, and Dawson~R. Engler.
+\newblock A factor graph model for software bug finding.
+\newblock In Veloso \cite{DBLP:conf/ijcai/2007}, pages 2510--2516.
+
+\bibitem{DBLP:conf/isrr/SaxenaWQN07}
+Ashutosh Saxena, Lawson L.~S. Wong, Morgan Quigley, and Andrew~Y. Ng.
+\newblock A vision-based system for grasping novel objects in cluttered
+  environments.
+\newblock In Kaneko and Nakamura \cite{DBLP:conf/isrr/2007}, pages 337--348.
+
+\bibitem{DBLP:conf/nips/DoFN07}
+Chuong~B. Do, Chuan{-}Sheng Foo, and Andrew~Y. Ng.
+\newblock Efficient multiple hyperparameter learning for log-linear models.
+\newblock In Platt et~al. \cite{DBLP:conf/nips/2007}, pages 377--384.
+
+\bibitem{DBLP:conf/nips/KolterAN07}
+J.~Zico Kolter, Pieter Abbeel, and Andrew~Y. Ng.
+\newblock Hierarchical apprenticeship learning with application to quadruped
+  locomotion.
+\newblock In Platt et~al. \cite{DBLP:conf/nips/2007}, pages 769--776.
+
+\bibitem{DBLP:conf/nips/LeeEN07}
+Honglak Lee, Chaitanya Ekanadham, and Andrew~Y. Ng.
+\newblock Sparse deep belief net model for visual area {V2}.
+\newblock In Platt et~al. \cite{DBLP:conf/nips/2007}, pages 873--880.
+
+\bibitem{DBLP:conf/rss/KolterN07}
+J.~Zico Kolter and Andrew~Y. Ng.
+\newblock Learning omnidirectional path following using dimensionality
+  reduction.
+\newblock In Burgard et~al. \cite{DBLP:conf/rss/2007}.
+
+\bibitem{DBLP:conf/uai/GrosseRKN07}
+Roger~B. Grosse, Rajat Raina, Helen Kwong, and Andrew~Y. Ng.
+\newblock Shift-invariance sparse coding for audio classification.
+\newblock In Parr and van~der Gaag \cite{DBLP:conf/uai/2007}, pages 149--158.
+
+\bibitem{DBLP:journals/jmlr/AbbeelKN06}
+Pieter Abbeel, Daphne Koller, and Andrew~Y. Ng.
+\newblock Learning factor graphs in polynomial time and sample complexity.
+\newblock {\em Journal of Machine Learning Research}, 7:1743--1788, 2006.
+
+\bibitem{DBLP:conf/aaai/LeeLAN06}
+Su{-}In Lee, Honglak Lee, Pieter Abbeel, and Andrew~Y. Ng.
+\newblock Efficient {L1} regularized logistic regression.
+\newblock In {\em Proceedings, The Twenty-First National Conference on
+  Artificial Intelligence and the Eighteenth Innovative Applications of
+  Artificial Intelligence Conference, July 16-20, 2006, Boston, Massachusetts,
+  {USA}\/} \cite{DBLP:conf/aaai/2006}, pages 401--408.
+
+\bibitem{DBLP:conf/acl/SnowJN06}
+Rion Snow, Daniel Jurafsky, and Andrew~Y. Ng.
+\newblock Semantic taxonomy induction from heterogenous evidence.
+\newblock In Calzolari et~al. \cite{DBLP:conf/acl/2006}.
+
+\bibitem{DBLP:conf/alt/Ng06}
+Andrew~Y. Ng.
+\newblock Reinforcement learning and apprenticeship learning for robotic
+  control.
+\newblock In Balc{\'{a}}zar et~al. \cite{DBLP:conf/alt/2006}, pages 29--31.
+
+\bibitem{DBLP:conf/chi/BrzozowskiCKMHN06}
+Mike Brzozowski, Kendra Carattini, Scott~R. Klemmer, Patrick Mihelich, Jiang
+  Hu, and Andrew~Y. Ng.
+\newblock grouptime: preference based group scheduling.
+\newblock In Grinter et~al. \cite{DBLP:conf/chi/2006}, pages 1047--1056.
+
+\bibitem{DBLP:conf/cvpr/DelageLN06}
+Erick Delage, Honglak Lee, and Andrew~Y. Ng.
+\newblock A dynamic bayesian network model for autonomous 3d reconstruction
+  from a single indoor image.
+\newblock In {\em 2006 {IEEE} Computer Society Conference on Computer Vision
+  and Pattern Recognition {(CVPR} 2006), 17-22 June 2006, New York, NY,
+  {USA}\/} \cite{DBLP:conf/cvpr/2006}, pages 2418--2428.
+
+\bibitem{DBLP:conf/dis/Ng06}
+Andrew~Y. Ng.
+\newblock Reinforcement learning and apprenticeship learning for robotic
+  control.
+\newblock In Todorovski et~al. \cite{DBLP:conf/dis/2006}, page~14.
+
+\bibitem{DBLP:conf/emnlp/FinkelMN06}
+Jenny~Rose Finkel, Christopher~D. Manning, and Andrew~Y. Ng.
+\newblock Solving the problem of cascading errors: Approximate bayesian
+  inference for linguistic annotation pipelines.
+\newblock In Jurafsky and Gaussier \cite{DBLP:conf/emnlp/2006}, pages 618--626.
+
+\bibitem{DBLP:conf/icml/AbbeelQN06}
+Pieter Abbeel, Morgan Quigley, and Andrew~Y. Ng.
+\newblock Using inaccurate models in reinforcement learning.
+\newblock In Cohen and Moore \cite{DBLP:conf/icml/2006}, pages 1--8.
+
+\bibitem{DBLP:conf/icml/RainaNK06}
+Rajat Raina, Andrew~Y. Ng, and Daphne Koller.
+\newblock Constructing informative priors using transfer learning.
+\newblock In Cohen and Moore \cite{DBLP:conf/icml/2006}, pages 713--720.
+
+\bibitem{DBLP:conf/icra/PetrovskayaKTN06}
+Anna Petrovskaya, Oussama Khatib, Sebastian Thrun, and Andrew~Y. Ng.
+\newblock Bayesian estimation for autonomous object manipulation based on
+  tactile sensors.
+\newblock In {\em Proceedings of the 2006 {IEEE} International Conference on
+  Robotics and Automation, {ICRA} 2006, May 15-19, 2006, Orlando, Florida,
+  {USA}\/} \cite{DBLP:conf/icra/2006}, pages 707--714.
+
+\bibitem{DBLP:conf/icra/LeeSYSN06}
+Honglak Lee, Yirong Shen, Chih{-}Han Yu, Gurjeet Singh, and Andrew~Y. Ng.
+\newblock Quadruped robot obstacle negotiation via reinforcement learning.
+\newblock In {\em Proceedings of the 2006 {IEEE} International Conference on
+  Robotics and Automation, {ICRA} 2006, May 15-19, 2006, Orlando, Florida,
+  {USA}\/} \cite{DBLP:conf/icra/2006}, pages 3003--3010.
+
+\bibitem{DBLP:conf/interspeech/KrsmanovicSJN06}
+Filip Krsmanovic, Curtis Spencer, Daniel Jurafsky, and Andrew~Y. Ng.
+\newblock Have we met? {MDP} based speaker {ID} for robot dialogue.
+\newblock In {\em {INTERSPEECH} 2006 - ICSLP, Ninth International Conference on
+  Spoken Language Processing, Pittsburgh, PA, USA, September 17-21, 2006\/}
+  \cite{DBLP:conf/interspeech/2006}.
+
+\bibitem{DBLP:conf/iser/SaxenaDKON06}
+Ashutosh Saxena, Justin Driemeyer, Justin Kearns, Chioma Osondu, and Andrew~Y.
+  Ng.
+\newblock Learning to grasp novel objects using vision.
+\newblock In Khatib et~al. \cite{DBLP:conf/iser/2006}, pages 33--42.
+
+\bibitem{DBLP:conf/nips/AbbeelCQN06}
+Pieter Abbeel, Adam Coates, Morgan Quigley, and Andrew~Y. Ng.
+\newblock An application of reinforcement learning to aerobatic helicopter
+  flight.
+\newblock In Sch{\"{o}}lkopf et~al. \cite{DBLP:conf/nips/2006}, pages 1--8.
+
+\bibitem{DBLP:conf/nips/ChuKLYBNO06}
+Cheng{-}Tao Chu, Sang~Kyun Kim, Yi{-}An Lin, YuanYuan Yu, Gary~R. Bradski,
+  Andrew~Y. Ng, and Kunle Olukotun.
+\newblock Map-reduce for machine learning on multicore.
+\newblock In Sch{\"{o}}lkopf et~al. \cite{DBLP:conf/nips/2006}, pages 281--288.
+
+\bibitem{DBLP:conf/nips/LeeBRN06}
+Honglak Lee, Alexis Battle, Rajat Raina, and Andrew~Y. Ng.
+\newblock Efficient sparse coding algorithms.
+\newblock In Sch{\"{o}}lkopf et~al. \cite{DBLP:conf/nips/2006}, pages 801--808.
+
+\bibitem{DBLP:conf/nips/SaxenaDKN06}
+Ashutosh Saxena, Justin Driemeyer, Justin Kearns, and Andrew~Y. Ng.
+\newblock Robotic grasping of novel objects.
+\newblock In Sch{\"{o}}lkopf et~al. \cite{DBLP:conf/nips/2006}, pages
+  1209--1216.
+
+\bibitem{DBLP:conf/osdi/KremenekTBNE06}
+Ted Kremenek, Paul Twohey, Godmar Back, Andrew~Y. Ng, and Dawson~R. Engler.
+\newblock From uncertainty to belief: Inferring the specification within.
+\newblock In Bershad and Mogul \cite{DBLP:conf/osdi/2006}, pages 161--176.
+
+\bibitem{DBLP:conf/sigir/MinkovCN06}
+Einat Minkov, William~W. Cohen, and Andrew~Y. Ng.
+\newblock Contextual search and name disambiguation in email using graphs.
+\newblock In Efthimiadis et~al. \cite{DBLP:conf/sigir/2006}, pages 27--34.
+
+\bibitem{DBLP:journals/aim/HeckermanBGN05}
+David Heckerman, Tom Berson, Joshua Goodman, and Andrew~Y. Ng.
+\newblock The first conference on e-mail and anti-spam.
+\newblock {\em {AI} Magazine}, 26(1):96, 2005.
+
+\bibitem{DBLP:conf/aaai/RainaNM05}
+Rajat Raina, Andrew~Y. Ng, and Christopher~D. Manning.
+\newblock Robust textual inference via learning and abductive reasoning.
+\newblock In Veloso and Kambhampati \cite{DBLP:conf/aaai/2005}, pages
+  1099--1105.
+
+\bibitem{DBLP:conf/ceas/LeeN05}
+Honglak Lee and Andrew~Y. Ng.
+\newblock Spam deobfuscation using a hidden markov model.
+\newblock In {\em {CEAS} 2005 - Second Conference on Email and Anti-Spam, July
+  21-22, 2005, Stanford University, California, {USA}\/}
+  \cite{DBLP:conf/ceas/2005}.
+
+\bibitem{DBLP:conf/cvpr/AnguelovTCKGHN05}
+Dragomir Anguelov, Benjamin Taskar, Vassil Chatalbashev, Daphne Koller, Dinkar
+  Gupta, Geremy Heitz, and Andrew~Y. Ng.
+\newblock Discriminative learning of markov random fields for segmentation of
+  3d scan data.
+\newblock In {\em 2005 {IEEE} Computer Society Conference on Computer Vision
+  and Pattern Recognition {(CVPR} 2005), 20-26 June 2005, San Diego, CA,
+  {USA}\/} \cite{DBLP:conf/cvpr/2005}, pages 169--176.
+
+\bibitem{DBLP:conf/fsr/MatsuokaCSCNT05}
+Masayoshi Matsuoka, Alan Chen, Surya P.~N. Singh, Adam Coates, Andrew~Y. Ng,
+  and Sebastian Thrun.
+\newblock Autonomous helicopter tracking and localization using a
+  self-surveying camera array.
+\newblock In Corke and Sukkarieh \cite{DBLP:conf/fsr/2005}, pages 19--30.
+
+\bibitem{DBLP:conf/icml/AbbeelN05}
+Pieter Abbeel and Andrew~Y. Ng.
+\newblock Exploration and apprenticeship learning in reinforcement learning.
+\newblock In Raedt and Wrobel \cite{DBLP:conf/icml/2005}, pages 1--8.
+
+\bibitem{DBLP:conf/icml/MichelsSN05}
+Jeff Michels, Ashutosh Saxena, and Andrew~Y. Ng.
+\newblock High speed obstacle avoidance using monocular vision and
+  reinforcement learning.
+\newblock In Raedt and Wrobel \cite{DBLP:conf/icml/2005}, pages 593--600.
+
+\bibitem{DBLP:conf/isrr/DelageLN05}
+Erick Delage, Honglak Lee, and Andrew~Y. Ng.
+\newblock Automatic single-image 3d reconstructions of indoor manhattan world
+  scenes.
+\newblock In Thrun et~al. \cite{DBLP:conf/isrr/2005}, pages 305--321.
+
+\bibitem{DBLP:conf/naacl/HaghighiNM05}
+Aria Haghighi, Andrew~Y. Ng, and Christopher~D. Manning.
+\newblock Robust textual inference via graph matching.
+\newblock In {\em {HLT/EMNLP} 2005, Human Language Technology Conference and
+  Conference on Empirical Methods in Natural Language Processing, Proceedings
+  of the Conference, 6-8 October 2005, Vancouver, British Columbia, Canada\/}
+  \cite{DBLP:conf/naacl/2005}.
+
+\bibitem{DBLP:conf/nips/AbbeelGN05}
+Pieter Abbeel, Varun Ganapathi, and Andrew~Y. Ng.
+\newblock Learning vehicular dynamics, with application to modeling
+  helicopters.
+\newblock In {\em Advances in Neural Information Processing Systems 18 [Neural
+  Information Processing Systems, {NIPS} 2005, December 5-8, 2005, Vancouver,
+  British Columbia, Canada]\/} \cite{DBLP:conf/nips/2005}, pages 1--8.
+
+\bibitem{DBLP:conf/nips/BagnellN05}
+J.~Andrew Bagnell and Andrew~Y. Ng.
+\newblock On local rewards and scaling distributed reinforcement learning.
+\newblock In {\em Advances in Neural Information Processing Systems 18 [Neural
+  Information Processing Systems, {NIPS} 2005, December 5-8, 2005, Vancouver,
+  British Columbia, Canada]\/} \cite{DBLP:conf/nips/2005}, pages 91--98.
+
+\bibitem{DBLP:conf/nips/DoN05}
+Chuong~B. Do and Andrew~Y. Ng.
+\newblock Transfer learning for text classification.
+\newblock In {\em Advances in Neural Information Processing Systems 18 [Neural
+  Information Processing Systems, {NIPS} 2005, December 5-8, 2005, Vancouver,
+  British Columbia, Canada]\/} \cite{DBLP:conf/nips/2005}, pages 299--306.
+
+\bibitem{DBLP:conf/nips/SaxenaCN05}
+Ashutosh Saxena, Sung~H. Chung, and Andrew~Y. Ng.
+\newblock Learning depth from single monocular images.
+\newblock In {\em Advances in Neural Information Processing Systems 18 [Neural
+  Information Processing Systems, {NIPS} 2005, December 5-8, 2005, Vancouver,
+  British Columbia, Canada]\/} \cite{DBLP:conf/nips/2005}, pages 1161--1168.
+
+\bibitem{DBLP:conf/nips/ShenNS05}
+Yirong Shen, Andrew~Y. Ng, and Matthias~W. Seeger.
+\newblock Fast gaussian process regression using kd-trees.
+\newblock In {\em Advances in Neural Information Processing Systems 18 [Neural
+  Information Processing Systems, {NIPS} 2005, December 5-8, 2005, Vancouver,
+  British Columbia, Canada]\/} \cite{DBLP:conf/nips/2005}, pages 1225--1232.
+
+\bibitem{DBLP:conf/rss/AbbeelCMNT05}
+Pieter Abbeel, Adam Coates, Michael Montemerlo, Andrew~Y. Ng, and Sebastian
+  Thrun.
+\newblock Discriminative training of kalman filters.
+\newblock In Thrun et~al. \cite{DBLP:conf/rss/2005}, pages 289--296.
+
+\bibitem{DBLP:conf/uai/AbbeelKN05}
+Pieter Abbeel, Daphne Koller, and Andrew~Y. Ng.
+\newblock Learning factor graphs in polynomial time {\&} sample complexity.
+\newblock In {\em {UAI} '05, Proceedings of the 21st Conference in Uncertainty
+  in Artificial Intelligence, Edinburgh, Scotland, July 26-29, 2005\/}
+  \cite{DBLP:conf/uai/2005}, pages 1--9.
+
+\bibitem{DBLP:journals/ijrr/ThrunLKNGD04}
+Sebastian Thrun, Yufeng Liu, Daphne Koller, Andrew~Y. Ng, Zoubin Ghahramani,
+  and Hugh~F. Durrant{-}Whyte.
+\newblock Simultaneous localization and mapping with sparse extended
+  information filters.
+\newblock {\em I. J. Robotic Res.}, 23(7-8):693--716, 2004.
+
+\bibitem{DBLP:conf/icml/PieterN04}
+Pieter Abbeel and Andrew~Y. Ng.
+\newblock Apprenticeship learning via inverse reinforcement learning.
+\newblock In Brodley \cite{DBLP:conf/icml/2004}.
+
+\bibitem{DBLP:conf/icml/Shalev-ShwartzSN04}
+Shai Shalev{-}Shwartz, Yoram Singer, and Andrew~Y. Ng.
+\newblock Online and batch learning of pseudo-metrics.
+\newblock In Brodley \cite{DBLP:conf/icml/2004}.
+
+\bibitem{DBLP:conf/icml/ToutanovaMN04}
+Kristina Toutanova, Christopher~D. Manning, and Andrew~Y. Ng.
+\newblock Learning random walk models for inducing word dependency
+  distributions.
+\newblock In Brodley \cite{DBLP:conf/icml/2004}.
+
+\bibitem{DBLP:conf/iser/NgCDGSTBL04}
+Andrew~Y. Ng, Adam Coates, Mark Diel, Varun Ganapathi, Jamie Schulte, Ben Tse,
+  Eric Berger, and Eric Liang.
+\newblock Autonomous inverted helicopter flight via reinforcement learning.
+\newblock In Jr. and Khatib \cite{DBLP:conf/iser/2004}, pages 363--372.
+
+\bibitem{DBLP:conf/nips/AbbeelN04}
+Pieter Abbeel and Andrew~Y. Ng.
+\newblock Learning first-order markov models for control.
+\newblock In {\em Advances in Neural Information Processing Systems 17 [Neural
+  Information Processing Systems, {NIPS} 2004, December 13-18, 2004, Vancouver,
+  British Columbia, Canada]\/} \cite{DBLP:conf/nips/2004}, pages 1--8.
+
+\bibitem{DBLP:conf/nips/KakadeN04}
+Sham~M. Kakade and Andrew~Y. Ng.
+\newblock Online bounds for bayesian algorithms.
+\newblock In {\em Advances in Neural Information Processing Systems 17 [Neural
+  Information Processing Systems, {NIPS} 2004, December 13-18, 2004, Vancouver,
+  British Columbia, Canada]\/} \cite{DBLP:conf/nips/2004}, pages 641--648.
+
+\bibitem{DBLP:conf/nips/NgK04}
+Andrew~Y. Ng and H.~Jin Kim.
+\newblock Stable adaptive control with online learning.
+\newblock In {\em Advances in Neural Information Processing Systems 17 [Neural
+  Information Processing Systems, {NIPS} 2004, December 13-18, 2004, Vancouver,
+  British Columbia, Canada]\/} \cite{DBLP:conf/nips/2004}, pages 977--984.
+
+\bibitem{DBLP:conf/nips/SnowJN04}
+Rion Snow, Daniel Jurafsky, and Andrew~Y. Ng.
+\newblock Learning syntactic patterns for automatic hypernym discovery.
+\newblock In {\em Advances in Neural Information Processing Systems 17 [Neural
+  Information Processing Systems, {NIPS} 2004, December 13-18, 2004, Vancouver,
+  British Columbia, Canada]\/} \cite{DBLP:conf/nips/2004}, pages 1297--1304.
+
+\bibitem{DBLP:journals/jmlr/BleiNJ03}
+David~M. Blei, Andrew~Y. Ng, and Michael~I. Jordan.
+\newblock Latent dirichlet allocation.
+\newblock {\em Journal of Machine Learning Research}, 3:993--1022, 2003.
+
+\bibitem{DBLP:conf/nips/RainaSNM03}
+Rajat Raina, Yirong Shen, Andrew~Y. Ng, and Andrew McCallum.
+\newblock Classification with hybrid generative/discriminative models.
+\newblock In Thrun et~al. \cite{DBLP:conf/nips/2003}, pages 545--552.
+
+\bibitem{DBLP:conf/nips/NgKJS03}
+Andrew~Y. Ng, H.~Jin Kim, Michael~I. Jordan, and Shankar Sastry.
+\newblock Autonomous helicopter flight via reinforcement learning.
+\newblock In Thrun et~al. \cite{DBLP:conf/nips/2003}, pages 799--806.
+
+\bibitem{DBLP:conf/nips/BagnellKNS03}
+J.~Andrew Bagnell, Sham Kakade, Andrew~Y. Ng, and Jeff~G. Schneider.
+\newblock Policy search by dynamic programming.
+\newblock In Thrun et~al. \cite{DBLP:conf/nips/2003}, pages 831--838.
+
+\bibitem{DBLP:journals/ml/KearnsMN02}
+Michael~J. Kearns, Yishay Mansour, and Andrew~Y. Ng.
+\newblock A sparse sampling algorithm for near-optimal planning in large markov
+  decision processes.
+\newblock {\em Machine Learning}, 49(2-3):193--208, 2002.
+
+\bibitem{DBLP:conf/nips/XingNJR02}
+Eric~P. Xing, Andrew~Y. Ng, Michael~I. Jordan, and Stuart~J. Russell.
+\newblock Distance metric learning with application to clustering with
+  side-information.
+\newblock In Becker et~al. \cite{DBLP:conf/nips/2002}, pages 505--512.
+
+\bibitem{DBLP:conf/sigir/DumaisBBLN02}
+Susan~T. Dumais, Michele Banko, Eric Brill, Jimmy~J. Lin, and Andrew~Y. Ng.
+\newblock Web question answering: is more always better?
+\newblock In {\em {SIGIR} 2002: Proceedings of the 25th Annual International
+  {ACM} {SIGIR} Conference on Research and Development in Information
+  Retrieval, August 11-15, 2002, Tampere, Finland\/}
+  \cite{DBLP:conf/sigir/2002}, pages 291--298.
+
+\bibitem{DBLP:conf/wafr/ThrunKGDN02}
+Sebastian Thrun, Daphne Koller, Zoubin Ghahramani, Hugh Durrant{-}Whyte, and
+  Andrew~Y. Ng.
+\newblock Simultaneous mapping and localization with sparse extended
+  information filters: Theory and initial results.
+\newblock In Boissonnat et~al. \cite{DBLP:conf/wafr/2002}, pages 363--380.
+
+\bibitem{DBLP:conf/icml/NgJ01}
+Andrew~Y. Ng and Michael~I. Jordan.
+\newblock Convergence rates of the voting gibbs classifier, with application to
+  bayesian feature selection.
+\newblock In Brodley and Danyluk \cite{DBLP:conf/icml/2001}, pages 377--384.
+
+\bibitem{DBLP:conf/ijcai/NgZJ01}
+Andrew~Y. Ng, Alice~X. Zheng, and Michael~I. Jordan.
+\newblock Link analysis, eigenvectors and stability.
+\newblock In Nebel \cite{DBLP:conf/ijcai/2001}, pages 903--910.
+
+\bibitem{DBLP:conf/nips/BleiNJ01}
+David~M. Blei, Andrew~Y. Ng, and Michael~I. Jordan.
+\newblock Latent dirichlet allocation.
+\newblock In Dietterich et~al. \cite{DBLP:conf/nips/2001}, pages 601--608.
+
+\bibitem{DBLP:conf/nips/NgJ01}
+Andrew~Y. Ng and Michael~I. Jordan.
+\newblock On discriminative vs. generative classifiers: {A} comparison of
+  logistic regression and naive bayes.
+\newblock In Dietterich et~al. \cite{DBLP:conf/nips/2001}, pages 841--848.
+
+\bibitem{DBLP:conf/nips/NgJW01}
+Andrew~Y. Ng, Michael~I. Jordan, and Yair Weiss.
+\newblock On spectral clustering: Analysis and an algorithm.
+\newblock In Dietterich et~al. \cite{DBLP:conf/nips/2001}, pages 849--856.
+
+\bibitem{DBLP:conf/sigir/ZhengNJ01}
+Alice~X. Zheng, Andrew~Y. Ng, and Michael~I. Jordan.
+\newblock Stable algorithms for link analysis.
+\newblock In Croft et~al. \cite{DBLP:conf/sigir/2001}, pages 258--266.
+
+\bibitem{DBLP:conf/trec/BrillLBDN01}
+Eric Brill, Jimmy~J. Lin, Michele Banko, Susan~T. Dumais, and Andrew~Y. Ng.
+\newblock Data-intensive question answering.
+\newblock In Voorhees and Harman \cite{DBLP:conf/trec/2001}.
+
+\bibitem{DBLP:conf/icml/NgR00}
+Andrew~Y. Ng and Stuart~J. Russell.
+\newblock Algorithms for inverse reinforcement learning.
+\newblock In Langley \cite{DBLP:conf/icml/2000}, pages 663--670.
+
+\bibitem{DBLP:conf/uai/NgJ00}
+Andrew~Y. Ng and Michael~I. Jordan.
+\newblock {PEGASUS:} {A} policy search method for large mdps and pomdps.
+\newblock In Boutilier and Goldszmidt \cite{DBLP:conf/uai/2000}, pages
+  406--415.
+
+\bibitem{DBLP:conf/icml/NgHR99}
+Andrew~Y. Ng, Daishi Harada, and Stuart~J. Russell.
+\newblock Policy invariance under reward transformations: Theory and
+  application to reward shaping.
+\newblock In Bratko and Dzeroski \cite{DBLP:conf/icml/1999}, pages 278--287.
+
+\bibitem{DBLP:conf/ijcai/KearnsMN99}
+Michael~J. Kearns, Yishay Mansour, and Andrew~Y. Ng.
+\newblock A sparse sampling algorithm for near-optimal planning in large markov
+  decision processes.
+\newblock In Dean \cite{DBLP:conf/ijcai/99}, pages 1324--1231.
+
+\bibitem{DBLP:conf/nips/NgJ99}
+Andrew~Y. Ng and Michael~I. Jordan.
+\newblock Approximate inference {A} lgorithms for two-layer bayesian networks.
+\newblock In Solla et~al. \cite{DBLP:conf/nips/1999}, pages 533--539.
+
+\bibitem{DBLP:conf/nips/KearnsMN99}
+Michael~J. Kearns, Yishay Mansour, and Andrew~Y. Ng.
+\newblock Approximate planning in large pomdps via reusable trajectories.
+\newblock In Solla et~al. \cite{DBLP:conf/nips/1999}, pages 1001--1007.
+
+\bibitem{DBLP:conf/nips/NgPK99}
+Andrew~Y. Ng, Ronald Parr, and Daphne Koller.
+\newblock Policy search via density estimation.
+\newblock In Solla et~al. \cite{DBLP:conf/nips/1999}, pages 1022--1028.
+
+\bibitem{DBLP:conf/aaai/DaviesNM98}
+Scott Davies, Andrew~Y. Ng, and Andrew~W. Moore.
+\newblock Applying online search techniques to continuous-state reinforcement
+  learning.
+\newblock In Mostow and Rich \cite{DBLP:conf/aaai/1998}, pages 753--760.
+
+\bibitem{DBLP:conf/icml/McCallumRMN98}
+Andrew McCallum, Ronald Rosenfeld, Tom~M. Mitchell, and Andrew~Y. Ng.
+\newblock Improving text classification by shrinkage in a hierarchy of classes.
+\newblock In Shavlik \cite{DBLP:conf/icml/1998}, pages 359--367.
+
+\bibitem{DBLP:conf/icml/Ng98}
+Andrew~Y. Ng.
+\newblock On feature selection: Learning with exponentially many irrelevant
+  features as training examples.
+\newblock In Shavlik \cite{DBLP:conf/icml/1998}, pages 404--412.
+
+\bibitem{DBLP:journals/ml/KearnsMNR97}
+Michael~J. Kearns, Yishay Mansour, Andrew~Y. Ng, and Dana Ron.
+\newblock An experimental and theoretical comparison of model selection
+  methods.
+\newblock {\em Machine Learning}, 27(1):7--50, 1997.
+
+\bibitem{DBLP:conf/icml/Ng97}
+Andrew~Y. Ng.
+\newblock Preventing "overfitting" of cross-validation data.
+\newblock In Fisher \cite{DBLP:conf/icml/1997}, pages 245--253.
+
+\bibitem{DBLP:conf/uai/KearnsMN97}
+Michael~J. Kearns, Yishay Mansour, and Andrew~Y. Ng.
+\newblock An information-theoretic analysis of hard and soft assignment methods
+  for clustering.
+\newblock In Geiger and Shenoy \cite{DBLP:conf/uai/1997}, pages 282--293.
+
+\bibitem{DBLP:conf/colt/KearnsMNR95}
+Michael~J. Kearns, Yishay Mansour, Andrew~Y. Ng, and Dana Ron.
+\newblock An experimental and theoretical comparison of model selection
+  methods.
+\newblock In Maass \cite{DBLP:conf/colt/1995}, pages 21--30.
+
+\bibitem{DBLP:conf/naacl/2015}
+Rada Mihalcea, Joyce~Yue Chai, and Anoop Sarkar, editors.
+\newblock {\em {NAACL} {HLT} 2015, The 2015 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies, Denver, Colorado, USA, May 31 - June 5, 2015}. The Association
+  for Computational Linguistics, 2015.
+
+\bibitem{DBLP:conf/acl/2013-1}
+{\em Proceedings of the 51st Annual Meeting of the Association for
+  Computational Linguistics, {ACL} 2013, 4-9 August 2013, Sofia, Bulgaria,
+  Volume 1: Long Papers}. The Association for Computer Linguistics, 2013.
+
+\bibitem{DBLP:conf/cikm/2013}
+Qi~He, Arun Iyengar, Wolfgang Nejdl, Jian Pei, and Rajeev Rastogi, editors.
+\newblock {\em 22nd {ACM} International Conference on Information and Knowledge
+  Management, CIKM'13, San Francisco, CA, USA, October 27 - November 1, 2013}.
+  {ACM}, 2013.
+
+\bibitem{DBLP:conf/edm/2013}
+Sidney~K. D'Mello, Rafael~A. Calvo, and Andrew Olney, editors.
+\newblock {\em Proceedings of the 6th International Conference on Educational
+  Data Mining, Memphis, Tennessee, USA, July 6-9, 2013}. International
+  Educational Data Mining Society, 2013.
+
+\bibitem{DBLP:conf/icml/2013}
+{\em Proceedings of the 30th International Conference on Machine Learning,
+  {ICML} 2013, Atlanta, GA, USA, 16-21 June 2013}, volume~28 of {\em {JMLR}
+  Proceedings}. JMLR.org, 2013.
+
+\bibitem{DBLP:conf/kdd/2013}
+Inderjit~S. Dhillon, Yehuda Koren, Rayid Ghani, Ted~E. Senator, Paul Bradley,
+  Rajesh Parekh, Jingrui He, Robert~L. Grossman, and Ramasamy Uthurusamy,
+  editors.
+\newblock {\em The 19th {ACM} {SIGKDD} International Conference on Knowledge
+  Discovery and Data Mining, {KDD} 2013, Chicago, IL, USA, August 11-14, 2013}.
+  {ACM}, 2013.
+
+\bibitem{DBLP:conf/nips/2013}
+Christopher J.~C. Burges, L{\'{e}}on Bottou, Zoubin Ghahramani, and Kilian~Q.
+  Weinberger, editors.
+\newblock {\em Advances in Neural Information Processing Systems 26: 27th
+  Annual Conference on Neural Information Processing Systems 2013. Proceedings
+  of a meeting held December 5-8, 2013, Lake Tahoe, Nevada, United States},
+  2013.
+
+\bibitem{DBLP:conf/acl/2012-1}
+{\em The 50th Annual Meeting of the Association for Computational Linguistics,
+  Proceedings of the Conference, July 8-14, 2012, Jeju Island, Korea - Volume
+  1: Long Papers}. The Association for Computer Linguistics, 2012.
+
+\bibitem{DBLP:conf/emnlp/2012}
+Jun'ichi Tsujii, James Henderson, and Marius Pasca, editors.
+\newblock {\em Proceedings of the 2012 Joint Conference on Empirical Methods in
+  Natural Language Processing and Computational Natural Language Learning,
+  EMNLP-CoNLL 2012, July 12-14, 2012, Jeju Island, Korea}. {ACL}, 2012.
+
+\bibitem{DBLP:conf/icml/2012}
+{\em Proceedings of the 29th International Conference on Machine Learning,
+  {ICML} 2012, Edinburgh, Scotland, UK, June 26 - July 1, 2012}. icml.cc /
+  Omnipress, 2012.
+
+\bibitem{DBLP:conf/icpr/2012}
+{\em Proceedings of the 21st International Conference on Pattern Recognition,
+  {ICPR} 2012, Tsukuba, Japan, November 11-15, 2012}. {IEEE} Computer Society,
+  2012.
+
+\bibitem{DBLP:conf/interspeech/2012}
+{\em {INTERSPEECH} 2012, 13th Annual Conference of the International Speech
+  Communication Association, Portland, Oregon, USA, September 9-13, 2012}.
+  {ISCA}, 2012.
+
+\bibitem{DBLP:conf/nips/2012}
+Peter~L. Bartlett, Fernando C.~N. Pereira, Christopher J.~C. Burges, L{\'{e}}on
+  Bottou, and Kilian~Q. Weinberger, editors.
+\newblock {\em Advances in Neural Information Processing Systems 25: 26th
+  Annual Conference on Neural Information Processing Systems 2012. Proceedings
+  of a meeting held December 3-6, 2012, Lake Tahoe, Nevada, United States},
+  2012.
+
+\bibitem{DBLP:series/lncs/7700}
+Gr{\'{e}}goire Montavon, Genevieve~B. Orr, and Klaus{-}Robert M{\"{u}}ller,
+  editors.
+\newblock {\em Neural Networks: Tricks of the Trade - Second Edition}, volume
+  7700 of {\em Lecture Notes in Computer Science}.
+\newblock Springer, 2012.
+
+\bibitem{DBLP:conf/acl/2011}
+Dekang Lin, Yuji Matsumoto, and Rada Mihalcea, editors.
+\newblock {\em The 49th Annual Meeting of the Association for Computational
+  Linguistics: Human Language Technologies, Proceedings of the Conference,
+  19-24 June, 2011, Portland, Oregon, {USA}}. The Association for Computer
+  Linguistics, 2011.
+
+\bibitem{DBLP:conf/cvpr/2011}
+{\em The 24th {IEEE} Conference on Computer Vision and Pattern Recognition,
+  {CVPR} 2011, Colorado Springs, CO, USA, 20-25 June 2011}. {IEEE} Computer
+  Society, 2011.
+
+\bibitem{DBLP:conf/emnlp/2011}
+{\em Proceedings of the 2011 Conference on Empirical Methods in Natural
+  Language Processing, {EMNLP} 2011, 27-31 July 2011, John McIntyre Conference
+  Centre, Edinburgh, UK, {A} meeting of SIGDAT, a Special Interest Group of the
+  {ACL}}. {ACL}, 2011.
+
+\bibitem{DBLP:conf/icdar/2011}
+{\em 2011 International Conference on Document Analysis and Recognition,
+  {ICDAR} 2011, Beijing, China, September 18-21, 2011}. {IEEE} Computer
+  Society, 2011.
+
+\bibitem{DBLP:conf/icml/2011}
+Lise Getoor and Tobias Scheffer, editors.
+\newblock {\em Proceedings of the 28th International Conference on Machine
+  Learning, {ICML} 2011, Bellevue, Washington, USA, June 28 - July 2, 2011}.
+  Omnipress, 2011.
+
+\bibitem{DBLP:conf/icra/2011}
+{\em {IEEE} International Conference on Robotics and Automation, {ICRA} 2011,
+  Shanghai, China, 9-13 May 2011}. {IEEE}, 2011.
+
+\bibitem{DBLP:conf/nips/2011}
+John Shawe{-}Taylor, Richard~S. Zemel, Peter~L. Bartlett, Fernando C.~N.
+  Pereira, and Kilian~Q. Weinberger, editors.
+\newblock {\em Advances in Neural Information Processing Systems 24: 25th
+  Annual Conference on Neural Information Processing Systems 2011. Proceedings
+  of a meeting held 12-14 December 2011, Granada, Spain}, 2011.
+
+\bibitem{DBLP:conf/aistats/2011}
+Geoffrey~J. Gordon, David~B. Dunson, and Miroslav Dud{\'{\i}}k, editors.
+\newblock {\em Proceedings of the Fourteenth International Conference on
+  Artificial Intelligence and Statistics, {AISTATS} 2011, Fort Lauderdale, USA,
+  April 11-13, 2011}, volume~15 of {\em {JMLR} Proceedings}. JMLR.org, 2011.
+
+\bibitem{DBLP:conf/aaai/2010middle}
+{\em Enabling Intelligence through Middleware, Papers from the 2010 {AAAI}
+  Robot Workshop, Atlanta, Georgia, USA, July 12, 2010}, volume {WS-10-09} of
+  {\em {AAAI} Workshops}. {AAAI}, 2010.
+
+\bibitem{DBLP:conf/cvpr/2010}
+{\em The Twenty-Third {IEEE} Conference on Computer Vision and Pattern
+  Recognition, {CVPR} 2010, San Francisco, CA, USA, 13-18 June 2010}. {IEEE}
+  Computer Society, 2010.
+
+\bibitem{DBLP:conf/icra/2010}
+{\em {IEEE} International Conference on Robotics and Automation, {ICRA} 2010,
+  Anchorage, Alaska, USA, 3-7 May 2010}. {IEEE}, 2010.
+
+\bibitem{DBLP:conf/iros/2010}
+{\em 2010 {IEEE/RSJ} International Conference on Intelligent Robots and
+  Systems, October 18-22, 2010, Taipei, Taiwan}. {IEEE}, 2010.
+
+\bibitem{DBLP:conf/nips/2010}
+John~D. Lafferty, Christopher K.~I. Williams, John Shawe{-}Taylor, Richard~S.
+  Zemel, and Aron Culotta, editors.
+\newblock {\em Advances in Neural Information Processing Systems 23: 24th
+  Annual Conference on Neural Information Processing Systems 2010. Proceedings
+  of a meeting held 6-9 December 2010, Vancouver, British Columbia, Canada}.
+  Curran Associates, Inc., 2010.
+
+\bibitem{DBLP:reference/ml/2010}
+Claude Sammut and Geoffrey~I. Webb, editors.
+\newblock {\em Encyclopedia of Machine Learning}.
+\newblock Springer, 2010.
+
+\bibitem{DBLP:conf/icml/2009}
+Andrea~Pohoreckyj Danyluk, L{\'{e}}on Bottou, and Michael~L. Littman, editors.
+\newblock {\em Proceedings of the 26th Annual International Conference on
+  Machine Learning, {ICML} 2009, Montreal, Quebec, Canada, June 14-18, 2009},
+  volume 382 of {\em {ACM} International Conference Proceeding Series}. {ACM},
+  2009.
+
+\bibitem{DBLP:conf/icra/2009}
+{\em 2009 {IEEE} International Conference on Robotics and Automation, {ICRA}
+  2009, Kobe, Japan, May 12-17, 2009}. {IEEE}, 2009.
+
+\bibitem{DBLP:conf/ijcai/2009}
+Craig Boutilier, editor.
+\newblock {\em {IJCAI} 2009, Proceedings of the 21st International Joint
+  Conference on Artificial Intelligence, Pasadena, California, USA, July 11-17,
+  2009}, 2009.
+
+\bibitem{DBLP:conf/iros/2009}
+{\em 2009 {IEEE/RSJ} International Conference on Intelligent Robots and
+  Systems, October 11-15, 2009, St. Louis, MO, {USA}}. {IEEE}, 2009.
+
+\bibitem{DBLP:conf/nips/2009}
+Yoshua Bengio, Dale Schuurmans, John~D. Lafferty, Christopher K.~I. Williams,
+  and Aron Culotta, editors.
+\newblock {\em Advances in Neural Information Processing Systems 22: 23rd
+  Annual Conference on Neural Information Processing Systems 2009. Proceedings
+  of a meeting held 7-10 December 2009, Vancouver, British Columbia, Canada}.
+  Curran Associates, Inc., 2009.
+
+\bibitem{DBLP:conf/rss/2009}
+Jeff Trinkle, Yoky Matsuoka, and Jos{\'{e}}~A. Castellanos, editors.
+\newblock {\em Robotics: Science and Systems V, University of Washington,
+  Seattle, USA, June 28 - July 1, 2009}. The {MIT} Press, 2010.
+
+\bibitem{DBLP:conf/vmv/2009}
+Marcus~A. Magnor, Bodo Rosenhahn, and Holger Theisel, editors.
+\newblock {\em Proceedings of the Vision, Modeling, and Visualization Workshop
+  2009, November 16-18, 2009, Braunschweig, Germany}. {DNB}, 2009.
+
+\bibitem{DBLP:conf/aaai/2008}
+Dieter Fox and Carla~P. Gomes, editors.
+\newblock {\em Proceedings of the Twenty-Third {AAAI} Conference on Artificial
+  Intelligence, {AAAI} 2008, Chicago, Illinois, USA, July 13-17, 2008}. {AAAI}
+  Press, 2008.
+
+\bibitem{DBLP:conf/emnlp/2008}
+{\em 2008 Conference on Empirical Methods in Natural Language Processing,
+  {EMNLP} 2008, Proceedings of the Conference, 25-27 October 2008, Honolulu,
+  Hawaii, USA, {A} meeting of SIGDAT, a Special Interest Group of the {ACL}}.
+  {ACL}, 2008.
+
+\bibitem{DBLP:conf/icml/2008}
+William~W. Cohen, Andrew McCallum, and Sam~T. Roweis, editors.
+\newblock {\em Machine Learning, Proceedings of the Twenty-Fifth International
+  Conference {(ICML} 2008), Helsinki, Finland, June 5-9, 2008}, volume 307 of
+  {\em {ACM} International Conference Proceeding Series}. {ACM}, 2008.
+
+\bibitem{DBLP:conf/icra/2008}
+{\em 2008 {IEEE} International Conference on Robotics and Automation, {ICRA}
+  2008, May 19-23, 2008, Pasadena, California, {USA}}. {IEEE}, 2008.
+
+\bibitem{DBLP:conf/iros/2008}
+{\em 2008 {IEEE/RSJ} International Conference on Intelligent Robots and
+  Systems, September 22-26, 2008, Acropolis Convention Center, Nice, France}.
+  {IEEE}, 2008.
+
+\bibitem{DBLP:conf/iser/2008}
+Oussama Khatib, Vijay Kumar, and George~J. Pappas, editors.
+\newblock {\em Experimental Robotics, The Eleventh International Symposium,
+  {ISER} 2008, July 13-16, 2008, Athens, Greece}, volume~54 of {\em Springer
+  Tracts in Advanced Robotics}. Springer, 2009.
+
+\bibitem{DBLP:conf/emnlp/2007}
+Jason Eisner, editor.
+\newblock {\em EMNLP-CoNLL 2007, Proceedings of the 2007 Joint Conference on
+  Empirical Methods in Natural Language Processing and Computational Natural
+  Language Learning, June 28-30, 2007, Prague, Czech Republic}. {ACL}, 2007.
+
+\bibitem{DBLP:conf/iccv/2007}
+{\em {IEEE} 11th International Conference on Computer Vision, {ICCV} 2007, Rio
+  de Janeiro, Brazil, October 14-20, 2007}. {IEEE}, 2007.
+
+\bibitem{DBLP:conf/icml/2007}
+Zoubin Ghahramani, editor.
+\newblock {\em Machine Learning, Proceedings of the Twenty-Fourth International
+  Conference {(ICML} 2007), Corvallis, Oregon, USA, June 20-24, 2007}, volume
+  227 of {\em {ACM} International Conference Proceeding Series}. {ACM}, 2007.
+
+\bibitem{DBLP:conf/ijcai/2007}
+Manuela~M. Veloso, editor.
+\newblock {\em {IJCAI} 2007, Proceedings of the 20th International Joint
+  Conference on Artificial Intelligence, Hyderabad, India, January 6-12, 2007},
+  2007.
+
+\bibitem{DBLP:conf/isrr/2007}
+Makoto Kaneko and Yoshihiko Nakamura, editors.
+\newblock {\em Robotics Research - The 13th International Symposium, {ISRR}
+  2007, November 26-29, 2007 in Hiroshima, Japan}, volume~66 of {\em Springer
+  Tracts in Advanced Robotics}. Springer, 2011.
+
+\bibitem{DBLP:conf/nips/2007}
+John~C. Platt, Daphne Koller, Yoram Singer, and Sam~T. Roweis, editors.
+\newblock {\em Advances in Neural Information Processing Systems 20,
+  Proceedings of the Twenty-First Annual Conference on Neural Information
+  Processing Systems, Vancouver, British Columbia, Canada, December 3-6, 2007}.
+  Curran Associates, Inc., 2008.
+
+\bibitem{DBLP:conf/rss/2007}
+Wolfram Burgard, Oliver Brock, and Cyrill Stachniss, editors.
+\newblock {\em Robotics: Science and Systems III, June 27-30, 2007, Georgia
+  Institute of Technology, Atlanta, Georgia, {USA}}. The {MIT} Press, 2008.
+
+\bibitem{DBLP:conf/uai/2007}
+Ronald Parr and Linda~C. van~der Gaag, editors.
+\newblock {\em {UAI} 2007, Proceedings of the Twenty-Third Conference on
+  Uncertainty in Artificial Intelligence, Vancouver, BC, Canada, July 19-22,
+  2007}. {AUAI} Press, 2007.
+
+\bibitem{DBLP:conf/aaai/2006}
+{\em Proceedings, The Twenty-First National Conference on Artificial
+  Intelligence and the Eighteenth Innovative Applications of Artificial
+  Intelligence Conference, July 16-20, 2006, Boston, Massachusetts, {USA}}.
+  {AAAI} Press, 2006.
+
+\bibitem{DBLP:conf/acl/2006}
+Nicoletta Calzolari, Claire Cardie, and Pierre Isabelle, editors.
+\newblock {\em {ACL} 2006, 21st International Conference on Computational
+  Linguistics and 44th Annual Meeting of the Association for Computational
+  Linguistics, Proceedings of the Conference, Sydney, Australia, 17-21 July
+  2006}. The Association for Computer Linguistics, 2006.
+
+\bibitem{DBLP:conf/alt/2006}
+Jos{\'{e}}~L. Balc{\'{a}}zar, Philip~M. Long, and Frank Stephan, editors.
+\newblock {\em Algorithmic Learning Theory, 17th International Conference,
+  {ALT} 2006, Barcelona, Spain, October 7-10, 2006, Proceedings}, volume 4264
+  of {\em Lecture Notes in Computer Science}. Springer, 2006.
+
+\bibitem{DBLP:conf/chi/2006}
+Rebecca~E. Grinter, Tom Rodden, Paul~M. Aoki, Edward Cutrell, Robin Jeffries,
+  and Gary~M. Olson, editors.
+\newblock {\em Proceedings of the 2006 Conference on Human Factors in Computing
+  Systems, {CHI} 2006, Montr{\'{e}}al, Qu{\'{e}}bec, Canada, April 22-27,
+  2006}. {ACM}, 2006.
+
+\bibitem{DBLP:conf/cvpr/2006}
+{\em 2006 {IEEE} Computer Society Conference on Computer Vision and Pattern
+  Recognition {(CVPR} 2006), 17-22 June 2006, New York, NY, {USA}}. {IEEE}
+  Computer Society, 2006.
+
+\bibitem{DBLP:conf/dis/2006}
+Ljupco Todorovski, Nada Lavrac, and Klaus~P. Jantke, editors.
+\newblock {\em Discovery Science, 9th International Conference, {DS} 2006,
+  Barcelona, Spain, October 7-10, 2006, Proceedings}, volume 4265 of {\em
+  Lecture Notes in Computer Science}. Springer, 2006.
+
+\bibitem{DBLP:conf/emnlp/2006}
+Dan Jurafsky and {\'{E}}ric Gaussier, editors.
+\newblock {\em {EMNLP} 2007, Proceedings of the 2006 Conference on Empirical
+  Methods in Natural Language Processing, 22-23 July 2006, Sydney, Australia}.
+  {ACL}, 2006.
+
+\bibitem{DBLP:conf/icml/2006}
+William~W. Cohen and Andrew Moore, editors.
+\newblock {\em Machine Learning, Proceedings of the Twenty-Third International
+  Conference {(ICML} 2006), Pittsburgh, Pennsylvania, USA, June 25-29, 2006},
+  volume 148 of {\em {ACM} International Conference Proceeding Series}. {ACM},
+  2006.
+
+\bibitem{DBLP:conf/icra/2006}
+{\em Proceedings of the 2006 {IEEE} International Conference on Robotics and
+  Automation, {ICRA} 2006, May 15-19, 2006, Orlando, Florida, {USA}}. {IEEE},
+  2006.
+
+\bibitem{DBLP:conf/interspeech/2006}
+{\em {INTERSPEECH} 2006 - ICSLP, Ninth International Conference on Spoken
+  Language Processing, Pittsburgh, PA, USA, September 17-21, 2006}. {ISCA},
+  2006.
+
+\bibitem{DBLP:conf/iser/2006}
+Oussama Khatib, Vijay Kumar, and Daniela Rus, editors.
+\newblock {\em Experimental Robotics, The 10th International Symposium on
+  Experimental Robotics {[ISER} '06, July 6-10, 2006, Rio de Janeiro, Brazil]},
+  volume~39 of {\em Springer Tracts in Advanced Robotics}. Springer, 2008.
+
+\bibitem{DBLP:conf/nips/2006}
+Bernhard Sch{\"{o}}lkopf, John~C. Platt, and Thomas Hofmann, editors.
+\newblock {\em Advances in Neural Information Processing Systems 19,
+  Proceedings of the Twentieth Annual Conference on Neural Information
+  Processing Systems, Vancouver, British Columbia, Canada, December 4-7, 2006}.
+  {MIT} Press, 2007.
+
+\bibitem{DBLP:conf/osdi/2006}
+Brian~N. Bershad and Jeffrey~C. Mogul, editors.
+\newblock {\em 7th Symposium on Operating Systems Design and Implementation
+  {(OSDI} '06), November 6-8, Seattle, WA, {USA}}. {USENIX} Association, 2006.
+
+\bibitem{DBLP:conf/sigir/2006}
+Efthimis~N. Efthimiadis, Susan~T. Dumais, David Hawking, and Kalervo
+  J{\"{a}}rvelin, editors.
+\newblock {\em {SIGIR} 2006: Proceedings of the 29th Annual International {ACM}
+  {SIGIR} Conference on Research and Development in Information Retrieval,
+  Seattle, Washington, USA, August 6-11, 2006}. {ACM}, 2006.
+
+\bibitem{DBLP:conf/aaai/2005}
+Manuela~M. Veloso and Subbarao Kambhampati, editors.
+\newblock {\em Proceedings, The Twentieth National Conference on Artificial
+  Intelligence and the Seventeenth Innovative Applications of Artificial
+  Intelligence Conference, July 9-13, 2005, Pittsburgh, Pennsylvania, {USA}}.
+  {AAAI} Press / The {MIT} Press, 2005.
+
+\bibitem{DBLP:conf/ceas/2005}
+{\em {CEAS} 2005 - Second Conference on Email and Anti-Spam, July 21-22, 2005,
+  Stanford University, California, {USA}}, 2005.
+
+\bibitem{DBLP:conf/cvpr/2005}
+{\em 2005 {IEEE} Computer Society Conference on Computer Vision and Pattern
+  Recognition {(CVPR} 2005), 20-26 June 2005, San Diego, CA, {USA}}. {IEEE}
+  Computer Society, 2005.
+
+\bibitem{DBLP:conf/fsr/2005}
+Peter~I. Corke and Salah Sukkarieh, editors.
+\newblock {\em Field and Service Robotics, Results of the 5th International
+  Conference, {FSR} 2005, July 29-31, 2005, Port Douglas, QLD, Australia},
+  volume~25 of {\em Springer Tracts in Advanced Robotics}. Springer, 2006.
+
+\bibitem{DBLP:conf/icml/2005}
+Luc~De Raedt and Stefan Wrobel, editors.
+\newblock {\em Machine Learning, Proceedings of the Twenty-Second International
+  Conference {(ICML} 2005), Bonn, Germany, August 7-11, 2005}, volume 119 of
+  {\em {ACM} International Conference Proceeding Series}. {ACM}, 2005.
+
+\bibitem{DBLP:conf/isrr/2005}
+Sebastian Thrun, Rodney~A. Brooks, and Hugh~F. Durrant{-}Whyte, editors.
+\newblock {\em Robotics Research: Results of the 12th International Symposium,
+  {ISRR} 2005, October 12-15, 2005, San Francisco, CA, {USA}}, volume~28 of
+  {\em Springer Tracts in Advanced Robotics}. Springer, 2007.
+
+\bibitem{DBLP:conf/naacl/2005}
+{\em {HLT/EMNLP} 2005, Human Language Technology Conference and Conference on
+  Empirical Methods in Natural Language Processing, Proceedings of the
+  Conference, 6-8 October 2005, Vancouver, British Columbia, Canada}. The
+  Association for Computational Linguistics, 2005.
+
+\bibitem{DBLP:conf/nips/2005}
+{\em Advances in Neural Information Processing Systems 18 [Neural Information
+  Processing Systems, {NIPS} 2005, December 5-8, 2005, Vancouver, British
+  Columbia, Canada]}, 2005.
+
+\bibitem{DBLP:conf/rss/2005}
+Sebastian Thrun, Gaurav~S. Sukhatme, and Stefan Schaal, editors.
+\newblock {\em Robotics: Science and Systems I, June 8-11, 2005, Massachusetts
+  Institute of Technology, Cambridge, Massachusetts}. The {MIT} Press, 2005.
+
+\bibitem{DBLP:conf/uai/2005}
+{\em {UAI} '05, Proceedings of the 21st Conference in Uncertainty in Artificial
+  Intelligence, Edinburgh, Scotland, July 26-29, 2005}. {AUAI} Press, 2005.
+
+\bibitem{DBLP:conf/icml/2004}
+Carla~E. Brodley, editor.
+\newblock {\em Machine Learning, Proceedings of the Twenty-first International
+  Conference {(ICML} 2004), Banff, Alberta, Canada, July 4-8, 2004}, volume~69
+  of {\em {ACM} International Conference Proceeding Series}. {ACM}, 2004.
+
+\bibitem{DBLP:conf/iser/2004}
+Marcelo H.~Ang Jr. and Oussama Khatib, editors.
+\newblock {\em Experimental Robotics IX, The 9th International Symposium on
+  Experimental Robotics {[ISER} 2004, Singapore, 18.-21. June 2004]}, volume~21
+  of {\em Springer Tracts in Advanced Robotics}. Springer, 2006.
+
+\bibitem{DBLP:conf/nips/2004}
+{\em Advances in Neural Information Processing Systems 17 [Neural Information
+  Processing Systems, {NIPS} 2004, December 13-18, 2004, Vancouver, British
+  Columbia, Canada]}, 2004.
+
+\bibitem{DBLP:conf/nips/2003}
+Sebastian Thrun, Lawrence~K. Saul, and Bernhard Sch{\"{o}}lkopf, editors.
+\newblock {\em Advances in Neural Information Processing Systems 16 [Neural
+  Information Processing Systems, {NIPS} 2003, December 8-13, 2003, Vancouver
+  and Whistler, British Columbia, Canada]}. {MIT} Press, 2004.
+
+\bibitem{DBLP:conf/nips/2002}
+Suzanna Becker, Sebastian Thrun, and Klaus Obermayer, editors.
+\newblock {\em Advances in Neural Information Processing Systems 15 [Neural
+  Information Processing Systems, {NIPS} 2002, December 9-14, 2002, Vancouver,
+  British Columbia, Canada]}. {MIT} Press, 2003.
+
+\bibitem{DBLP:conf/sigir/2002}
+{\em {SIGIR} 2002: Proceedings of the 25th Annual International {ACM} {SIGIR}
+  Conference on Research and Development in Information Retrieval, August
+  11-15, 2002, Tampere, Finland}. {ACM}, 2002.
+
+\bibitem{DBLP:conf/wafr/2002}
+Jean{-}Daniel Boissonnat, Joel~W. Burdick, Ken Goldberg, and Seth Hutchinson,
+  editors.
+\newblock {\em Algorithmic Foundations of Robotics V, Selected Contributions of
+  the Fifth International Workshop on the Algorithmic Foundations of Robotics,
+  {WAFR} 2002, Nice, France, December 15-17, 2002}, volume~7 of {\em Springer
+  Tracts in Advanced Robotics}. Springer, 2004.
+
+\bibitem{DBLP:conf/icml/2001}
+Carla~E. Brodley and Andrea~Pohoreckyj Danyluk, editors.
+\newblock {\em Proceedings of the Eighteenth International Conference on
+  Machine Learning {(ICML} 2001), Williams College, Williamstown, MA, USA, June
+  28 - July 1, 2001}. Morgan Kaufmann, 2001.
+
+\bibitem{DBLP:conf/ijcai/2001}
+Bernhard Nebel, editor.
+\newblock {\em Proceedings of the Seventeenth International Joint Conference on
+  Artificial Intelligence, {IJCAI} 2001, Seattle, Washington, USA, August 4-10,
+  2001}. Morgan Kaufmann, 2001.
+
+\bibitem{DBLP:conf/nips/2001}
+Thomas~G. Dietterich, Suzanna Becker, and Zoubin Ghahramani, editors.
+\newblock {\em Advances in Neural Information Processing Systems 14 [Neural
+  Information Processing Systems: Natural and Synthetic, {NIPS} 2001, December
+  3-8, 2001, Vancouver, British Columbia, Canada]}. {MIT} Press, 2001.
+
+\bibitem{DBLP:conf/sigir/2001}
+W.~Bruce Croft, David~J. Harper, Donald~H. Kraft, and Justin Zobel, editors.
+\newblock {\em {SIGIR} 2001: Proceedings of the 24th Annual International {ACM}
+  {SIGIR} Conference on Research and Development in Information Retrieval,
+  September 9-13, 2001, New Orleans, Louisiana, {USA}}. {ACM}, 2001.
+
+\bibitem{DBLP:conf/trec/2001}
+Ellen~M. Voorhees and Donna~K. Harman, editors.
+\newblock {\em Proceedings of The Tenth Text REtrieval Conference, {TREC} 2001,
+  Gaithersburg, Maryland, USA, November 13-16, 2001}, volume Special
+  Publication 500-250. National Institute of Standards and Technology {(NIST)},
+  2001.
+
+\bibitem{DBLP:conf/icml/2000}
+Pat Langley, editor.
+\newblock {\em Proceedings of the Seventeenth International Conference on
+  Machine Learning {(ICML} 2000), Stanford University, Stanford, CA, USA, June
+  29 - July 2, 2000}. Morgan Kaufmann, 2000.
+
+\bibitem{DBLP:conf/uai/2000}
+Craig Boutilier and Mois{\'{e}}s Goldszmidt, editors.
+\newblock {\em {UAI} '00: Proceedings of the 16th Conference in Uncertainty in
+  Artificial Intelligence, Stanford University, Stanford, California, USA, June
+  30 - July 3, 2000}. Morgan Kaufmann, 2000.
+
+\bibitem{DBLP:conf/icml/1999}
+Ivan Bratko and Saso Dzeroski, editors.
+\newblock {\em Proceedings of the Sixteenth International Conference on Machine
+  Learning {(ICML} 1999), Bled, Slovenia, June 27 - 30, 1999}. Morgan Kaufmann,
+  1999.
+
+\bibitem{DBLP:conf/ijcai/99}
+Thomas Dean, editor.
+\newblock {\em Proceedings of the Sixteenth International Joint Conference on
+  Artificial Intelligence, {IJCAI} 99, Stockholm, Sweden, July 31 - August 6,
+  1999. 2 Volumes, 1450 pages}. Morgan Kaufmann, 1999.
+
+\bibitem{DBLP:conf/nips/1999}
+Sara~A. Solla, Todd~K. Leen, and Klaus{-}Robert M{\"{u}}ller, editors.
+\newblock {\em Advances in Neural Information Processing Systems 12, {[NIPS}
+  Conference, Denver, Colorado, USA, November 29 - December 4, 1999]}. The
+  {MIT} Press, 2000.
+
+\bibitem{DBLP:conf/aaai/1998}
+Jack Mostow and Chuck Rich, editors.
+\newblock {\em Proceedings of the Fifteenth National Conference on Artificial
+  Intelligence and Tenth Innovative Applications of Artificial Intelligence
+  Conference, {AAAI} 98, {IAAI} 98, July 26-30, 1998, Madison, Wisconsin,
+  {USA}}. {AAAI} Press / The {MIT} Press, 1998.
+
+\bibitem{DBLP:conf/icml/1998}
+Jude~W. Shavlik, editor.
+\newblock {\em Proceedings of the Fifteenth International Conference on Machine
+  Learning {(ICML} 1998), Madison, Wisconsin, USA, July 24-27, 1998}. Morgan
+  Kaufmann, 1998.
+
+\bibitem{DBLP:conf/icml/1997}
+Douglas~H. Fisher, editor.
+\newblock {\em Proceedings of the Fourteenth International Conference on
+  Machine Learning {(ICML} 1997), Nashville, Tennessee, USA, July 8-12, 1997}.
+  Morgan Kaufmann, 1997.
+
+\bibitem{DBLP:conf/uai/1997}
+Dan Geiger and Prakash~P. Shenoy, editors.
+\newblock {\em {UAI} '97: Proceedings of the Thirteenth Conference on
+  Uncertainty in Artificial Intelligence, Brown University, Providence, Rhode
+  Island, USA, August 1-3, 1997}. Morgan Kaufmann, 1997.
+
+\bibitem{DBLP:conf/colt/1995}
+Wolfgang Maass, editor.
+\newblock {\em Proceedings of the Eigth Annual Conference on Computational
+  Learning Theory, {COLT} 1995, Santa Cruz, California, USA, July 5-8, 1995}.
+  {ACM}, 1995.
+
+\end{thebibliography}
