@@ -1,21 +1,45 @@
-\documentclass[10pt]{article}
-
+\documentclass[10pt,twocolumn,letterpaper]{article}
 \usepackage[english]{babel}
-\usepackage[utf8]{inputenc}
+\usepackage{cvpr}
+\usepackage{times}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
 
-%Includes "References" in the table of contents
-\usepackage[nottoc]{tocbibind}
+\usepackage[pagebackref=true,breaklinks=true,letterpaper=true,colorlinks,bookmarks=false]{hyperref}
+
+\def\cvprPaperID{12345}
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+\ifcvprfinal\pagestyle{empty}\fi
 
 \begin{document}
 
+\title{Write an article with Tex}
+
+\author{au1\\
+Insti1\\
+Addre1\\
+{\tt\small au1@gmail.com}
+\and
+au2\\
+Insti2\\
+Addre2\\
+{\tt\small au2@gmail.com}
+}
+
+\maketitle
+
+
 \begin{abstract}
-\textit{This article propose a novel method to write a paper.}
+This article proposes a novel method to write a paper.
 \end{abstract}
 
 \section{Introduction}
 Since I don't know how to write an article, this method is novel to me.\cite{DBLP:journals/corr/RajpurkarMKCTWN15}
 
-\section{Method}
+\section{Main section}
 Write these codes
 
 \section{Summary and Future work}
@@ -26,7 +50,7 @@ Try to add more features
 
 
 \nocite{*}
-\bibliographystyle{unsrt}
+\bibliographystyle{plain}
 \bibliography{Andrew}
 
 
